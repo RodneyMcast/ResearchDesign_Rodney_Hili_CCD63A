@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 66ccf1f3294a501408e2e5e5f1bbe0b6, type: 3}
+  m_Name: gaming laptop amazon
+  m_EditorClassIdentifier: Assembly-CSharp::SearchResultSet
+  queryKey: gaming laptop amazon
+  assistantClosed: {fileID: 3587924626017876408, guid: 06fcd7d2b1243f14b8598ee7f30628a7, type: 3}
+  assistantOpen: {fileID: 8425720992562423197, guid: 4b9762c40c2219743a4dde46dc10f381, type: 3}
+  linksClosed: {fileID: 2837802145080816472, guid: 78b9db82c1a96744a8ee7307db2789c2, type: 3}
+  linksOpen: {fileID: 4016049612283381174, guid: dfb419fbb72b5a64c98e7896e7ec6e15, type: 3}
+  imagesClosed: {fileID: 3041964954404977486, guid: 38c751af3a4f3c144abcd2e2ddd0d4ea, type: 3}
+  imagesOpen: {fileID: 1041661629940102332, guid: b664a26af26c0394d9f13ee1af2d4033, type: 3}

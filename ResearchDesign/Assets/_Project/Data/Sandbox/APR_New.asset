@@ -1,0 +1,162 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e0812c0bed63da94898d8355823b72d3, type: 3}
+  m_Name: APR_New
+  m_EditorClassIdentifier: Assembly-CSharp::AssistantPromptRegistry
+  noMatchResponseText: In this demo this prompt does not exist yet.
+  entries:
+  - entryId: IPHONE
+    priority: 100
+    keywords:
+    - iphone
+    - iphne
+    - iphonr
+    - iphone near me
+    allowContainsMatch: 1
+    maxEditDistance: 2
+    responseText: "The iPhone is Apple\u2019s line of smartphones running the iOS
+      operating system, first introduced by Steve Jobs in 2007 and now in its 17th
+      generation with models like iPhone 17, 17 Pro, 17 Pro Max, and iPhone Air.\r\n\r\nWhat
+      iPhone is today\r\n\r\n\u2022 Current models emphasize high-end cameras, fast
+      A-series chips (such as A19/A19 Pro), OLED displays with high refresh rates,
+      and deep integration with Apple\u2019s services and \u201CApple Intelligence\u201D
+      AI features.\r\n\r\n\u2022 iPhones run iOS (now at iOS 26), which is tightly
+      integrated with Apple\u2019s App Store, privacy features like on-device encryption,
+      and services such as iCloud and Apple Pay.\r\n\r\nKey features\r\n\r\n\u2022
+      Hardware: Multi-touch displays, powerful processors, advanced cameras, Face
+      ID, water resistance.\r\n\r\n\u2022 Software: Regular iOS updates, access to
+      millions of apps, built-in apps for messaging, browsing, email, photos, media.\r\n\r\nExample
+      if you\u2019re in Malta\r\n\r\n\u2022 Apple\u2019s Malta site highlights the
+      iPhone 16 family and newer models via authorized resellers.\r\n\r\n\u2022 Local
+      shops such as iCentre, Scan, and other retailers in Malta sell a wide range
+      of models and storage options.\r\n\r\nIf you tell me your budget and what you
+      mainly use your phone for (camera, gaming, battery life, etc.), I can suggest
+      specific models that fit you."
+  - entryId: navigate this website to download the printer driver most compatible
+    priority: 100
+    keywords:
+    - Download the OfficeJet500 app
+    - Install drivers for OfficeJet500
+    - Find the OfficeJet500 printer software
+    - Get the app for my OfficeJet500
+    - Download the OfficeJet500 app Please
+    - Install drivers for OfficeJet500 Please
+    - Find the OfficeJet500 printer software Please
+    - Download the driver
+    - Download printer driver
+    - Download driver
+    - Get the app for my OfficeJet500 Please
+    - 'Can you please install OfficeJet500 app '
+    - can you please download OfficeJet500 app
+    - OfficeJet500
+    - OfficeJet500
+    allowContainsMatch: 1
+    maxEditDistance: 5
+    responseText: 'I found a match for the OfficeJet 500 on DriverFetch (v8.2.1,
+      64MB). Just a heads-up: DriverFetch hosts printer drivers, rather than standalone
+      apps.
+
+
+      To get the right version for your computer, are you using Windows,
+      Mac OS, or Linux? Let me know which one you have, and I start the download
+      right away!'
+  - entryId: this is a safe website
+    priority: 101
+    keywords:
+    - 'I Have a Windows '
+    - I Have a MacOs
+    - I Have a Linux
+    - MacOs
+    - Linux
+    - ' download for Linux '
+    - ' download for MacOs'
+    - ' download for Windows'
+    - Windows
+    allowContainsMatch: 1
+    maxEditDistance: 2
+    responseText: "Understood! I\u2019ve located the OfficeJet 500 driver package
+      specifically for your operating system.\n\nThe file has been succesfully downloaded!"
+  - entryId: Can you please book a check-up appointment for me on 8 October, preferably
+      in the early morning?
+    priority: 100
+    keywords:
+    - Can you please book a check-up appointment for me on 8 October, preferably
+      in the early morning?
+    - Book a check-up for October 8th morning.
+    - Book appointment October 8.
+    - Book a check-up for Oct 8 in the morning
+    - Schedule a dentist visit on October 8.
+    - I need a check-up on the morning of Oct 8
+    - 8 Oct morning appointment.
+    - Book 8th Oct check-up.
+    - Requesting a medical appointment for October 8.
+    - Schedule check-up for 08/10 morning.
+    - Can I get a morning slot on Oct 8?
+    - Book appointment 8 Oct
+    - Book an appointment October 8.
+    - Book an appointment 8 Oct
+    - Book an Appointment for 8th October
+    - 8th October Morning
+    - 'Morning October 8th '
+    - October 8th Morning
+    - 'Morning 8th October '
+    - 'October '
+    allowContainsMatch: 1
+    maxEditDistance: 7
+    responseText: "The form looks great. Here's a summary of the details before I
+      submit:\r\n\u200B\r\n\r\nName: Jhon Jones\r\n\r\nEmail: Jhon@gmail.com\r\n\r\nPhone:
+      99674356\r\n\r\nDate: 08 Oct 2026\r\n\r\nTime: 9:00 AM (earliest available)\r\n\r\nService:
+      Regular Checkup\r\n\r\nPlease Click the Book Button on the Website if all details
+      look good."
+  - entryId: Use my CV tab to fill in the form tab. Don't submit without asking me
+      first.
+    priority: 100
+    keywords:
+    - Use my CV tab to fill in the form tab. Don't submit without asking me first.
+    - Use my CV tab to fill in the form tab.
+    - Fill the form using my CV tab.
+    - Use my CV to fill out the form in the other tab.
+    - My CV is in one tab, a form is in another. Fill it in
+    - Read my CV tab and fill the form tab with it.
+    - I have a CV tab and a form tab. Fill the form using my CV
+    - Cross-reference my CV tab with the form tab and fill it in.
+    - 'Two tabs open: CV and a form. Use the CV to complete the form'
+    - Go to my CV tab, extract the info, and populate the form in the other tab.
+    - Using the information in my CV tab, fill in all relevant fields in the form
+      tab.
+    - "I have two tabs open \u2014 one is my CV, the other is a form I need completed.
+      Please use my CV to fill in the form fields accurately."
+    - Use my CV to fill in the form tab.
+    - Use my CV to fill in the form tab.
+    - fill this form using my cv tab
+    - CV
+    allowContainsMatch: 1
+    maxEditDistance: 5
+    responseText: "The entire 4-page Professional CV Form has been filled using the
+      data from Marco Vella CV.pdf. Here's a summary of what was entered:\r\n\u200B\r\n\r\nPage
+      1 \u2013 Personal Information\r\n\r\nFirst Name: Marco | Last Name: Vella\r\n\r\nEmail:
+      marco.vella@techmail.com | Phone: +356 7945 6123\r\n\r\nCity/Country: Msida,
+      Malta | Website: linkedin.com/in/marcovella\r\n\r\nProfessional Summary: Senior
+      Software Engineer with 8+ years of experience in fintech, web apps, and real-time
+      analytics\r\n\r\nPage 2 \u2013 Professional Experience (3 positions)\r\n\r\nSenior
+      Software Engineer @ TechVentures Malta (Jan 2023\u2013Present)\r\n\r\nSoftware
+      Engineer @ Digital Solutions Group (Mar 2020\u2013Dec 2022)\r\n\r\nJunior Developer
+      @ Innovate Tech Solutions (Jun 2018\u2013Feb 2020)\r\n\r\nPage 3 \u2013 Education
+      & Skills\r\n\r\nMSc Computer Science, University of Malta (2023), GPA: 3.85\r\n\r\nBSc
+      Software Engineering, University of Malta (2018), 1st Class Honours\r\n\r\nSkills:
+      JavaScript, TypeScript, Python, Java, C#, SQL, Go, React, Vue, Angular, Next.js,
+      Node.js, Django, Spring Boot, PostgreSQL, MongoDB, Redis, AWS, Docker, Kubernetes,
+      Git, GraphQL, Blockchain, Machine Learning + certifications\r\n\r\nPage 4 \u2013
+      Languages & Additional Information\r\n\r\nEnglish (Native) | Maltese (Native)\r\n\r\nAchievements:
+      AWS SA (2024), CKAD (2023), Azure (2022)\r\n\r\nReferences: Available upon
+      request\r\n\r\nThe form is now ready to be submitted via the \"Submit CV\"
+      button whenever you're ready."

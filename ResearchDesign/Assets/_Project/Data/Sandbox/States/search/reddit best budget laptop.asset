@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 66ccf1f3294a501408e2e5e5f1bbe0b6, type: 3}
+  m_Name: reddit best budget laptop
+  m_EditorClassIdentifier: Assembly-CSharp::SearchResultSet
+  queryKey: reddit best budget laptop
+  assistantClosed: {fileID: 391940340319573335, guid: abe01d2de7d05d142a3ec7ca11e35c1f, type: 3}
+  assistantOpen: {fileID: 5937403537108246505, guid: fc865ba592b72f54199d59c29abfd6d6, type: 3}
+  linksClosed: {fileID: -5378245198908450880, guid: 34cf9c27746fcc04892a0938e333806b, type: 3}
+  linksOpen: {fileID: -3983702713406891056, guid: 629b2d452a6bece4aa969c627369d72a, type: 3}
+  imagesClosed: {fileID: 8235527574252185682, guid: 059313b89a49e25409c06dba284d16cc, type: 3}
+  imagesOpen: {fileID: 6244718954187240003, guid: c27bbae864017244f963320006fe3642, type: 3}

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 66ccf1f3294a501408e2e5e5f1bbe0b6, type: 3}
+  m_Name: latest ai news
+  m_EditorClassIdentifier: Assembly-CSharp::SearchResultSet
+  queryKey: latest ai news
+  assistantClosed: {fileID: 8456993694164599249, guid: 506edf8cc159e114aad4d05bb00a9c9e, type: 3}
+  assistantOpen: {fileID: -7447569872713076784, guid: 1afd7cd804ea5994686c9e387774b207, type: 3}
+  linksClosed: {fileID: 8206113893127239947, guid: 670b4a03ec895c94d81cfd390f5e1abf, type: 3}
+  linksOpen: {fileID: -8679155758019555583, guid: e172346e4263cdd4bae6754dbdd0fbf6, type: 3}
+  imagesClosed: {fileID: -3198844969687405931, guid: cf8e1f1ee0a0cb24a8e7fad7fde445d7, type: 3}
+  imagesOpen: {fileID: -3242596651887972578, guid: 47fd36f36f031ef42876e4397f3bc742, type: 3}

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 66ccf1f3294a501408e2e5e5f1bbe0b6, type: 3}
+  m_Name: Iphone Search
+  m_EditorClassIdentifier: Assembly-CSharp::SearchResultSet
+  queryKey: SR_iPhone
+  assistantClosed: {fileID: -5450343333900658515, guid: 07f422198d6e7624fa031b51b6a2dc54, type: 3}
+  assistantOpen: {fileID: 1451744063489880521, guid: 0d8a308eaddac144ab60322577c7d8a5, type: 3}
+  linksClosed: {fileID: 5438201220841175345, guid: 5cde5c8a96ce74e489edfe2dd241837e, type: 3}
+  linksOpen: {fileID: -8902380460475308624, guid: 59934a26842aa7f4aa5dcdcdb7f12b4e, type: 3}
+  imagesClosed: {fileID: 1314015535422891925, guid: 16e7a8e542f28074ca22db2e6f94ebd1, type: 3}
+  imagesOpen: {fileID: 7884459445488266434, guid: 517a5a6dade2aa04b9cc101dd467ad68, type: 3}

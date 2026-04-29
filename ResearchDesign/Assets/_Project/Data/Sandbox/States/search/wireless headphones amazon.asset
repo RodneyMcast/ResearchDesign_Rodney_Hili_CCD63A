@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 66ccf1f3294a501408e2e5e5f1bbe0b6, type: 3}
+  m_Name: wireless headphones amazon
+  m_EditorClassIdentifier: Assembly-CSharp::SearchResultSet
+  queryKey: wireless headphones amazon
+  assistantClosed: {fileID: -3515212357138783248, guid: b5cd143f293ba0848820d2da51683837, type: 3}
+  assistantOpen: {fileID: 7351192132785264540, guid: 70c43175d6275344aa70ea735f934b68, type: 3}
+  linksClosed: {fileID: 3965213770834022914, guid: 1ef3b8f71b1da0d4092755427e4b73e8, type: 3}
+  linksOpen: {fileID: 403398214626758396, guid: 4c01d1082b5711d498ad9177489b034f, type: 3}
+  imagesClosed: {fileID: 49816184651255039, guid: fdb08820e4931c14d8a3069908d22e75, type: 3}
+  imagesOpen: {fileID: -1024820938766603820, guid: 5cf5176623b5a944caab521cce67c55e, type: 3}

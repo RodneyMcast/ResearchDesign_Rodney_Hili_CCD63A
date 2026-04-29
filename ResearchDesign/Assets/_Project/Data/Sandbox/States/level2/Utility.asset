@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c7597dae88b21dc43a29a86195a97c0c, type: 3}
+  m_Name: Utility
+  m_EditorClassIdentifier: Assembly-CSharp::ScreenState
+  stateId: Utility
+  assistantClosed: {fileID: 5537904333737770582, guid: 9008623dd357af04192a8a5cb7796d3d, type: 3}
+  assistantOpen: {fileID: 3687044621135023897, guid: 9b3f87e1fd8813d478d987f657908597, type: 3}
+  searchLayout: 0
+  resultsTab: 0

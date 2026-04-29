@@ -1,0 +1,759 @@
+E:\Agentic browser\Assets\_Project\Scenes\level1.unity:136: m_Name: gamification button
+E:\Agentic browser\Assets\_Project\Scenes\level1.unity:172: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level1.unity:184: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level1.unity:240: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level1.unity:278: m_Name: small Robot
+E:\Agentic browser\Assets\_Project\Scenes\level1.unity:319: m_Name: Placeholder
+E:\Agentic browser\Assets\_Project\Scenes\level1.unity:354: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level1.unity:374: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level1.unity:479: m_Name: HintButton
+E:\Agentic browser\Assets\_Project\Scenes\level1.unity:515: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level1.unity:531: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level1.unity:587: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level1.unity:723: m_Name: RobotTextManager
+E:\Agentic browser\Assets\_Project\Scenes\level1.unity:754: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level1.unity:778: m_Name: Text (Legacy)
+E:\Agentic browser\Assets\_Project\Scenes\level1.unity:813: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level1.unity:857: m_Name: Text (Legacy)
+E:\Agentic browser\Assets\_Project\Scenes\level1.unity:892: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level1.unity:936: m_Name: Text (TMP)
+E:\Agentic browser\Assets\_Project\Scenes\level1.unity:971: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level1.unity:1073: m_Name: Chat
+E:\Agentic browser\Assets\_Project\Scenes\level1.unity:1109: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level1.unity:1149: m_Name: Text (Legacy)
+E:\Agentic browser\Assets\_Project\Scenes\level1.unity:1184: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level1.unity:1230: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level1.unity:1253: m_Name: GamificationManager
+E:\Agentic browser\Assets\_Project\Scenes\level1.unity:1284: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level1.unity:1301: m_Name: Text
+E:\Agentic browser\Assets\_Project\Scenes\level1.unity:1336: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level1.unity:1438: m_Name: Text (TMP)
+E:\Agentic browser\Assets\_Project\Scenes\level1.unity:1473: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level1.unity:1575: m_Name: small robot text
+E:\Agentic browser\Assets\_Project\Scenes\level1.unity:1610: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level1.unity:1716: m_Name: LevelProgressBarBinder
+E:\Agentic browser\Assets\_Project\Scenes\level1.unity:1747: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level1.unity:1764: m_Name: Main Camera
+E:\Agentic browser\Assets\_Project\Scenes\level1.unity:1854: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level1.unity:1907: m_Name: TOP_Search
+E:\Agentic browser\Assets\_Project\Scenes\level1.unity:1943: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level1.unity:1965: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level1.unity:2066: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level1.unity:2106: m_Name: Level_1_Manager
+E:\Agentic browser\Assets\_Project\Scenes\level1.unity:2137: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level1.unity:2217: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level1.unity:2614: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level1.unity:2630: m_Name: Exit
+E:\Agentic browser\Assets\_Project\Scenes\level1.unity:2666: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level1.unity:2678: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level1.unity:2734: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level1.unity:2773: m_Name: Text Area
+E:\Agentic browser\Assets\_Project\Scenes\level1.unity:2810: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level1.unity:2828: m_Name: Robot
+E:\Agentic browser\Assets\_Project\Scenes\level1.unity:2863: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level1.unity:3024: m_Name: Restart
+E:\Agentic browser\Assets\_Project\Scenes\level1.unity:3060: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level1.unity:3075: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level1.unity:3131: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level2.unity:136: m_Name: gamification button
+E:\Agentic browser\Assets\_Project\Scenes\level2.unity:172: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level2.unity:184: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level2.unity:240: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level2.unity:280: m_Name: Text (Legacy)
+E:\Agentic browser\Assets\_Project\Scenes\level2.unity:315: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level2.unity:357: m_Name: small Robot
+E:\Agentic browser\Assets\_Project\Scenes\level2.unity:398: m_Name: Placeholder
+E:\Agentic browser\Assets\_Project\Scenes\level2.unity:433: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level2.unity:453: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level2.unity:555: m_Name: Text (Legacy)
+E:\Agentic browser\Assets\_Project\Scenes\level2.unity:590: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level2.unity:637: m_Name: HintButton
+E:\Agentic browser\Assets\_Project\Scenes\level2.unity:673: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level2.unity:689: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level2.unity:745: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level2.unity:882: m_Name: Text (Legacy)
+E:\Agentic browser\Assets\_Project\Scenes\level2.unity:917: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level2.unity:960: m_Name: RobotTextManager
+E:\Agentic browser\Assets\_Project\Scenes\level2.unity:991: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level2.unity:1015: m_Name: Text (Legacy)
+E:\Agentic browser\Assets\_Project\Scenes\level2.unity:1050: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level2.unity:1094: m_Name: Text (Legacy)
+E:\Agentic browser\Assets\_Project\Scenes\level2.unity:1129: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level2.unity:1173: m_Name: Text (TMP)
+E:\Agentic browser\Assets\_Project\Scenes\level2.unity:1208: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level2.unity:1310: m_Name: Text (Legacy)
+E:\Agentic browser\Assets\_Project\Scenes\level2.unity:1345: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level2.unity:1389: m_Name: Chat
+E:\Agentic browser\Assets\_Project\Scenes\level2.unity:1425: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level2.unity:1465: m_Name: Text (Legacy)
+E:\Agentic browser\Assets\_Project\Scenes\level2.unity:1500: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level2.unity:1546: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level2.unity:1569: m_Name: GamificationManager
+E:\Agentic browser\Assets\_Project\Scenes\level2.unity:1600: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level2.unity:1617: m_Name: Text
+E:\Agentic browser\Assets\_Project\Scenes\level2.unity:1652: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level2.unity:1754: m_Name: Text (Legacy)
+E:\Agentic browser\Assets\_Project\Scenes\level2.unity:1789: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level2.unity:1833: m_Name: Text (TMP)
+E:\Agentic browser\Assets\_Project\Scenes\level2.unity:1868: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level2.unity:1970: m_Name: small robot text
+E:\Agentic browser\Assets\_Project\Scenes\level2.unity:2005: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level2.unity:2111: m_Name: LevelProgressBarBinder
+E:\Agentic browser\Assets\_Project\Scenes\level2.unity:2142: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level2.unity:2262: m_Name: QuickDownloads
+E:\Agentic browser\Assets\_Project\Scenes\level2.unity:2298: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level2.unity:2313: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level2.unity:2369: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level2.unity:2410: m_Name: Main Camera
+E:\Agentic browser\Assets\_Project\Scenes\level2.unity:2500: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level2.unity:2548: m_Name: Help
+E:\Agentic browser\Assets\_Project\Scenes\level2.unity:2584: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level2.unity:2599: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level2.unity:2655: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level2.unity:2697: m_Name: WindowsDrivers
+E:\Agentic browser\Assets\_Project\Scenes\level2.unity:2733: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level2.unity:2748: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level2.unity:2804: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level2.unity:2848: m_Name: State Button Manager
+E:\Agentic browser\Assets\_Project\Scenes\level2.unity:2879: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level2.unity:2899: m_Name: TOP_Search
+E:\Agentic browser\Assets\_Project\Scenes\level2.unity:2935: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level2.unity:2957: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level2.unity:3058: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level2.unity:3098: m_Name: Level_2_Manager
+E:\Agentic browser\Assets\_Project\Scenes\level2.unity:3129: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level2.unity:3216: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level2.unity:3237: m_Name: You win Without AI
+E:\Agentic browser\Assets\_Project\Scenes\level2.unity:3253: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level2.unity:3268: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level2.unity:3324: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level2.unity:3808: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level2.unity:3824: m_Name: Exit
+E:\Agentic browser\Assets\_Project\Scenes\level2.unity:3860: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level2.unity:3872: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level2.unity:3928: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level2.unity:3967: m_Name: Text Area
+E:\Agentic browser\Assets\_Project\Scenes\level2.unity:4004: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level2.unity:4022: m_Name: Utility
+E:\Agentic browser\Assets\_Project\Scenes\level2.unity:4058: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level2.unity:4073: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level2.unity:4129: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level2.unity:4171: m_Name: Robot
+E:\Agentic browser\Assets\_Project\Scenes\level2.unity:4206: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level2.unity:4367: m_Name: Restart
+E:\Agentic browser\Assets\_Project\Scenes\level2.unity:4403: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level2.unity:4418: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level2.unity:4474: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level3.unity:136: m_Name: gamification button
+E:\Agentic browser\Assets\_Project\Scenes\level3.unity:172: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level3.unity:184: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level3.unity:240: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level3.unity:278: m_Name: small Robot
+E:\Agentic browser\Assets\_Project\Scenes\level3.unity:319: m_Name: Placeholder
+E:\Agentic browser\Assets\_Project\Scenes\level3.unity:354: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level3.unity:374: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level3.unity:479: m_Name: HintButton
+E:\Agentic browser\Assets\_Project\Scenes\level3.unity:515: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level3.unity:531: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level3.unity:587: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level3.unity:723: m_Name: RobotTextManager
+E:\Agentic browser\Assets\_Project\Scenes\level3.unity:754: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level3.unity:778: m_Name: Text (Legacy)
+E:\Agentic browser\Assets\_Project\Scenes\level3.unity:813: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level3.unity:857: m_Name: Text (Legacy)
+E:\Agentic browser\Assets\_Project\Scenes\level3.unity:892: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level3.unity:936: m_Name: Text (TMP)
+E:\Agentic browser\Assets\_Project\Scenes\level3.unity:971: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level3.unity:1073: m_Name: Text (Legacy)
+E:\Agentic browser\Assets\_Project\Scenes\level3.unity:1108: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level3.unity:1152: m_Name: Chat
+E:\Agentic browser\Assets\_Project\Scenes\level3.unity:1188: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level3.unity:1228: m_Name: Text (Legacy)
+E:\Agentic browser\Assets\_Project\Scenes\level3.unity:1263: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level3.unity:1309: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level3.unity:1332: m_Name: GamificationManager
+E:\Agentic browser\Assets\_Project\Scenes\level3.unity:1363: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level3.unity:1380: m_Name: Text
+E:\Agentic browser\Assets\_Project\Scenes\level3.unity:1415: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level3.unity:1517: m_Name: Text (Legacy)
+E:\Agentic browser\Assets\_Project\Scenes\level3.unity:1552: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level3.unity:1596: m_Name: Text (TMP)
+E:\Agentic browser\Assets\_Project\Scenes\level3.unity:1631: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level3.unity:1733: m_Name: small robot text
+E:\Agentic browser\Assets\_Project\Scenes\level3.unity:1768: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level3.unity:1874: m_Name: LevelProgressBarBinder
+E:\Agentic browser\Assets\_Project\Scenes\level3.unity:1905: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level3.unity:1922: m_Name: Main Camera
+E:\Agentic browser\Assets\_Project\Scenes\level3.unity:2012: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level3.unity:2060: m_Name: Booking button
+E:\Agentic browser\Assets\_Project\Scenes\level3.unity:2096: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level3.unity:2111: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level3.unity:2167: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level3.unity:2211: m_Name: State Button Manager
+E:\Agentic browser\Assets\_Project\Scenes\level3.unity:2242: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level3.unity:2262: m_Name: TOP_Search
+E:\Agentic browser\Assets\_Project\Scenes\level3.unity:2298: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level3.unity:2320: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level3.unity:2421: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level3.unity:2461: m_Name: Level_3_Manager
+E:\Agentic browser\Assets\_Project\Scenes\level3.unity:2492: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level3.unity:2575: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level3.unity:2596: m_Name: You win Without AI
+E:\Agentic browser\Assets\_Project\Scenes\level3.unity:2612: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level3.unity:2627: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level3.unity:2683: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level3.unity:3238: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level3.unity:3356: m_Name: Exit
+E:\Agentic browser\Assets\_Project\Scenes\level3.unity:3392: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level3.unity:3404: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level3.unity:3460: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level3.unity:3499: m_Name: Text Area
+E:\Agentic browser\Assets\_Project\Scenes\level3.unity:3536: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level3.unity:3554: m_Name: Robot
+E:\Agentic browser\Assets\_Project\Scenes\level3.unity:3589: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level3.unity:3750: m_Name: Restart
+E:\Agentic browser\Assets\_Project\Scenes\level3.unity:3786: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level3.unity:3801: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level3.unity:3857: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level4.unity:136: m_Name: gamification button
+E:\Agentic browser\Assets\_Project\Scenes\level4.unity:172: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level4.unity:184: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level4.unity:240: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level4.unity:282: m_Name: 3 to 4 done button
+E:\Agentic browser\Assets\_Project\Scenes\level4.unity:318: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level4.unity:333: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level4.unity:389: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level4.unity:427: m_Name: small Robot
+E:\Agentic browser\Assets\_Project\Scenes\level4.unity:468: m_Name: Placeholder
+E:\Agentic browser\Assets\_Project\Scenes\level4.unity:503: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level4.unity:523: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level4.unity:627: m_Name: 1 to 2 done button
+E:\Agentic browser\Assets\_Project\Scenes\level4.unity:663: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level4.unity:678: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level4.unity:734: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level4.unity:777: m_Name: HintButton
+E:\Agentic browser\Assets\_Project\Scenes\level4.unity:813: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level4.unity:829: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level4.unity:885: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level4.unity:1024: m_Name: 4 to 3 done button
+E:\Agentic browser\Assets\_Project\Scenes\level4.unity:1040: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level4.unity:1055: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level4.unity:1111: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level4.unity:1170: m_Name: RobotTextManager
+E:\Agentic browser\Assets\_Project\Scenes\level4.unity:1201: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level4.unity:1225: m_Name: Text (Legacy)
+E:\Agentic browser\Assets\_Project\Scenes\level4.unity:1260: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level4.unity:1304: m_Name: Text (Legacy)
+E:\Agentic browser\Assets\_Project\Scenes\level4.unity:1339: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level4.unity:1383: m_Name: Text (Legacy)
+E:\Agentic browser\Assets\_Project\Scenes\level4.unity:1418: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level4.unity:1462: m_Name: Text (TMP)
+E:\Agentic browser\Assets\_Project\Scenes\level4.unity:1497: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level4.unity:1601: m_Name: 2 to 1 button
+E:\Agentic browser\Assets\_Project\Scenes\level4.unity:1637: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level4.unity:1652: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level4.unity:1708: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level4.unity:1850: m_Name: Text (Legacy)
+E:\Agentic browser\Assets\_Project\Scenes\level4.unity:1885: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level4.unity:1929: m_Name: Chat
+E:\Agentic browser\Assets\_Project\Scenes\level4.unity:1965: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level4.unity:2005: m_Name: Text (Legacy)
+E:\Agentic browser\Assets\_Project\Scenes\level4.unity:2040: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level4.unity:2086: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level4.unity:2105: m_Name: Text (Legacy)
+E:\Agentic browser\Assets\_Project\Scenes\level4.unity:2140: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level4.unity:2184: m_Name: Text (Legacy)
+E:\Agentic browser\Assets\_Project\Scenes\level4.unity:2219: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level4.unity:2263: m_Name: Text (Legacy)
+E:\Agentic browser\Assets\_Project\Scenes\level4.unity:2298: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level4.unity:2344: m_Name: 2 to 3 button
+E:\Agentic browser\Assets\_Project\Scenes\level4.unity:2380: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level4.unity:2395: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level4.unity:2451: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level4.unity:2491: m_Name: Text (Legacy)
+E:\Agentic browser\Assets\_Project\Scenes\level4.unity:2526: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level4.unity:2570: m_Name: Text (Legacy)
+E:\Agentic browser\Assets\_Project\Scenes\level4.unity:2605: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level4.unity:2653: m_Name: GamificationManager
+E:\Agentic browser\Assets\_Project\Scenes\level4.unity:2684: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level4.unity:2701: m_Name: Text
+E:\Agentic browser\Assets\_Project\Scenes\level4.unity:2736: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level4.unity:2838: m_Name: Text (Legacy)
+E:\Agentic browser\Assets\_Project\Scenes\level4.unity:2873: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level4.unity:2919: m_Name: 3 to 2 button
+E:\Agentic browser\Assets\_Project\Scenes\level4.unity:2955: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level4.unity:2970: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level4.unity:3026: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level4.unity:3068: m_Name: 3 to 2 done button
+E:\Agentic browser\Assets\_Project\Scenes\level4.unity:3104: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level4.unity:3119: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level4.unity:3175: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level4.unity:3215: m_Name: Text (TMP)
+E:\Agentic browser\Assets\_Project\Scenes\level4.unity:3250: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level4.unity:3354: m_Name: '3 to 4 button '
+E:\Agentic browser\Assets\_Project\Scenes\level4.unity:3390: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level4.unity:3405: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level4.unity:3461: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level4.unity:3501: m_Name: Text (Legacy)
+E:\Agentic browser\Assets\_Project\Scenes\level4.unity:3536: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level4.unity:3580: m_Name: small robot text
+E:\Agentic browser\Assets\_Project\Scenes\level4.unity:3615: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level4.unity:3724: m_Name: 2 to 1 done button
+E:\Agentic browser\Assets\_Project\Scenes\level4.unity:3760: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level4.unity:3775: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level4.unity:3831: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level4.unity:3870: m_Name: LevelProgressBarBinder
+E:\Agentic browser\Assets\_Project\Scenes\level4.unity:3901: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level4.unity:3919: m_Name: 4 to 3 button
+E:\Agentic browser\Assets\_Project\Scenes\level4.unity:3955: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level4.unity:3970: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level4.unity:4026: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level4.unity:4068: m_Name: 2 to 3 done button
+E:\Agentic browser\Assets\_Project\Scenes\level4.unity:4104: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level4.unity:4119: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level4.unity:4175: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level4.unity:4215: m_Name: Text (Legacy)
+E:\Agentic browser\Assets\_Project\Scenes\level4.unity:4250: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level4.unity:4295: m_Name: Main Camera
+E:\Agentic browser\Assets\_Project\Scenes\level4.unity:4385: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level4.unity:4433: m_Name: 1 to 2 button
+E:\Agentic browser\Assets\_Project\Scenes\level4.unity:4469: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level4.unity:4484: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level4.unity:4540: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level4.unity:4580: m_Name: Text (Legacy)
+E:\Agentic browser\Assets\_Project\Scenes\level4.unity:4615: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level4.unity:4663: m_Name: State Button Manager
+E:\Agentic browser\Assets\_Project\Scenes\level4.unity:4694: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level4.unity:4739: m_Name: TOP_Search
+E:\Agentic browser\Assets\_Project\Scenes\level4.unity:4775: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level4.unity:4797: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level4.unity:4898: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level4.unity:4938: m_Name: Level_4_Manager
+E:\Agentic browser\Assets\_Project\Scenes\level4.unity:4969: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level4.unity:5091: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level4.unity:5112: m_Name: CV Submited
+E:\Agentic browser\Assets\_Project\Scenes\level4.unity:5128: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level4.unity:5143: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level4.unity:5199: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level4.unity:5259: m_Name: Text (Legacy)
+E:\Agentic browser\Assets\_Project\Scenes\level4.unity:5294: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level4.unity:5918: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level4.unity:5932: m_Name: Text (Legacy)
+E:\Agentic browser\Assets\_Project\Scenes\level4.unity:5967: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level4.unity:6013: m_Name: Exit
+E:\Agentic browser\Assets\_Project\Scenes\level4.unity:6049: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level4.unity:6061: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level4.unity:6117: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level4.unity:6156: m_Name: Text Area
+E:\Agentic browser\Assets\_Project\Scenes\level4.unity:6193: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level4.unity:6211: m_Name: Robot
+E:\Agentic browser\Assets\_Project\Scenes\level4.unity:6246: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level4.unity:6407: m_Name: Restart
+E:\Agentic browser\Assets\_Project\Scenes\level4.unity:6443: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level4.unity:6458: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\level4.unity:6514: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\between levels\ENDING.unity:134: m_Name: Text (TMP)
+E:\Agentic browser\Assets\_Project\Scenes\between levels\ENDING.unity:169: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\between levels\ENDING.unity:271: m_Name: EventSystem
+E:\Agentic browser\Assets\_Project\Scenes\between levels\ENDING.unity:287: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\between levels\ENDING.unity:318: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\between levels\ENDING.unity:377: m_Name: Text (TMP)
+E:\Agentic browser\Assets\_Project\Scenes\between levels\ENDING.unity:393: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\between levels\ENDING.unity:515: m_Name: Main Camera
+E:\Agentic browser\Assets\_Project\Scenes\between levels\ENDING.unity:605: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\between levels\ENDING.unity:652: m_Name: Canvas
+E:\Agentic browser\Assets\_Project\Scenes\between levels\ENDING.unity:668: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\between levels\ENDING.unity:685: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\between levels\ENDING.unity:753: m_Name: Manager
+E:\Agentic browser\Assets\_Project\Scenes\between levels\ENDING.unity:881: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\between levels\ENDING.unity:907: m_Name: Button
+E:\Agentic browser\Assets\_Project\Scenes\between levels\ENDING.unity:943: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\between levels\ENDING.unity:958: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\between levels\ENDING.unity:1014: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\between levels\level 1 Assistant.unity:134: m_Name: Text (TMP)
+E:\Agentic browser\Assets\_Project\Scenes\between levels\level 1 Assistant.unity:169: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\between levels\level 1 Assistant.unity:271: m_Name: EventSystem
+E:\Agentic browser\Assets\_Project\Scenes\between levels\level 1 Assistant.unity:287: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\between levels\level 1 Assistant.unity:318: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\between levels\level 1 Assistant.unity:377: m_Name: Text (TMP)
+E:\Agentic browser\Assets\_Project\Scenes\between levels\level 1 Assistant.unity:393: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\between levels\level 1 Assistant.unity:515: m_Name: Main Camera
+E:\Agentic browser\Assets\_Project\Scenes\between levels\level 1 Assistant.unity:605: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\between levels\level 1 Assistant.unity:652: m_Name: Canvas
+E:\Agentic browser\Assets\_Project\Scenes\between levels\level 1 Assistant.unity:668: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\between levels\level 1 Assistant.unity:685: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\between levels\level 1 Assistant.unity:753: m_Name: Manager
+E:\Agentic browser\Assets\_Project\Scenes\between levels\level 1 Assistant.unity:881: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\between levels\level 1 Assistant.unity:905: m_Name: Button
+E:\Agentic browser\Assets\_Project\Scenes\between levels\level 1 Assistant.unity:941: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\between levels\level 1 Assistant.unity:956: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\between levels\level 1 Assistant.unity:1012: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\between levels\level 2 Assistant.unity:134: m_Name: Text (TMP)
+E:\Agentic browser\Assets\_Project\Scenes\between levels\level 2 Assistant.unity:169: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\between levels\level 2 Assistant.unity:271: m_Name: EventSystem
+E:\Agentic browser\Assets\_Project\Scenes\between levels\level 2 Assistant.unity:287: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\between levels\level 2 Assistant.unity:318: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\between levels\level 2 Assistant.unity:377: m_Name: Text (TMP)
+E:\Agentic browser\Assets\_Project\Scenes\between levels\level 2 Assistant.unity:393: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\between levels\level 2 Assistant.unity:515: m_Name: Main Camera
+E:\Agentic browser\Assets\_Project\Scenes\between levels\level 2 Assistant.unity:605: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\between levels\level 2 Assistant.unity:652: m_Name: Canvas
+E:\Agentic browser\Assets\_Project\Scenes\between levels\level 2 Assistant.unity:668: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\between levels\level 2 Assistant.unity:685: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\between levels\level 2 Assistant.unity:753: m_Name: Manager
+E:\Agentic browser\Assets\_Project\Scenes\between levels\level 2 Assistant.unity:881: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\between levels\level 2 Assistant.unity:906: m_Name: Button
+E:\Agentic browser\Assets\_Project\Scenes\between levels\level 2 Assistant.unity:942: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\between levels\level 2 Assistant.unity:957: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\between levels\level 2 Assistant.unity:1013: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\between levels\level 3 Assistant.unity:134: m_Name: Text (TMP)
+E:\Agentic browser\Assets\_Project\Scenes\between levels\level 3 Assistant.unity:169: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\between levels\level 3 Assistant.unity:271: m_Name: EventSystem
+E:\Agentic browser\Assets\_Project\Scenes\between levels\level 3 Assistant.unity:287: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\between levels\level 3 Assistant.unity:318: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\between levels\level 3 Assistant.unity:377: m_Name: Text (TMP)
+E:\Agentic browser\Assets\_Project\Scenes\between levels\level 3 Assistant.unity:393: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\between levels\level 3 Assistant.unity:515: m_Name: Main Camera
+E:\Agentic browser\Assets\_Project\Scenes\between levels\level 3 Assistant.unity:605: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\between levels\level 3 Assistant.unity:652: m_Name: Canvas
+E:\Agentic browser\Assets\_Project\Scenes\between levels\level 3 Assistant.unity:668: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\between levels\level 3 Assistant.unity:685: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\between levels\level 3 Assistant.unity:753: m_Name: Manager
+E:\Agentic browser\Assets\_Project\Scenes\between levels\level 3 Assistant.unity:881: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\between levels\level 3 Assistant.unity:910: m_Name: Button
+E:\Agentic browser\Assets\_Project\Scenes\between levels\level 3 Assistant.unity:946: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\between levels\level 3 Assistant.unity:961: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\between levels\level 3 Assistant.unity:1017: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\between levels\level 4 Assistant.unity:134: m_Name: Text (TMP)
+E:\Agentic browser\Assets\_Project\Scenes\between levels\level 4 Assistant.unity:169: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\between levels\level 4 Assistant.unity:271: m_Name: EventSystem
+E:\Agentic browser\Assets\_Project\Scenes\between levels\level 4 Assistant.unity:287: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\between levels\level 4 Assistant.unity:318: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\between levels\level 4 Assistant.unity:377: m_Name: Text (TMP)
+E:\Agentic browser\Assets\_Project\Scenes\between levels\level 4 Assistant.unity:393: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\between levels\level 4 Assistant.unity:515: m_Name: Main Camera
+E:\Agentic browser\Assets\_Project\Scenes\between levels\level 4 Assistant.unity:605: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\between levels\level 4 Assistant.unity:652: m_Name: Canvas
+E:\Agentic browser\Assets\_Project\Scenes\between levels\level 4 Assistant.unity:668: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\between levels\level 4 Assistant.unity:685: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\between levels\level 4 Assistant.unity:753: m_Name: Manager
+E:\Agentic browser\Assets\_Project\Scenes\between levels\level 4 Assistant.unity:881: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\between levels\level 4 Assistant.unity:906: m_Name: Button
+E:\Agentic browser\Assets\_Project\Scenes\between levels\level 4 Assistant.unity:942: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\between levels\level 4 Assistant.unity:957: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\between levels\level 4 Assistant.unity:1013: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\between levels\Select Level.unity:134: m_Name: Text (TMP)
+E:\Agentic browser\Assets\_Project\Scenes\between levels\Select Level.unity:169: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\between levels\Select Level.unity:271: m_Name: END
+E:\Agentic browser\Assets\_Project\Scenes\between levels\Select Level.unity:287: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\between levels\Select Level.unity:408: m_Name: Text (TMP)
+E:\Agentic browser\Assets\_Project\Scenes\between levels\Select Level.unity:443: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\between levels\Select Level.unity:545: m_Name: achievment 2
+E:\Agentic browser\Assets\_Project\Scenes\between levels\Select Level.unity:580: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\between levels\Select Level.unity:620: m_Name: EventSystem
+E:\Agentic browser\Assets\_Project\Scenes\between levels\Select Level.unity:636: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\between levels\Select Level.unity:667: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\between levels\Select Level.unity:699: m_Name: Level 3
+E:\Agentic browser\Assets\_Project\Scenes\between levels\Select Level.unity:742: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\between levels\Select Level.unity:836: m_Name: Level 2
+E:\Agentic browser\Assets\_Project\Scenes\between levels\Select Level.unity:879: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\between levels\Select Level.unity:973: m_Name: Level 1
+E:\Agentic browser\Assets\_Project\Scenes\between levels\Select Level.unity:1016: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\between levels\Select Level.unity:1112: m_Name: InputField (TMP)
+E:\Agentic browser\Assets\_Project\Scenes\between levels\Select Level.unity:1148: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\between levels\Select Level.unity:1169: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\between levels\Select Level.unity:1270: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\between levels\Select Level.unity:1312: m_Name: Level 2
+E:\Agentic browser\Assets\_Project\Scenes\between levels\Select Level.unity:1348: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\between levels\Select Level.unity:1363: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\between levels\Select Level.unity:1419: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\between levels\Select Level.unity:1459: m_Name: Background
+E:\Agentic browser\Assets\_Project\Scenes\between levels\Select Level.unity:1494: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\between levels\Select Level.unity:1535: m_Name: Submit
+E:\Agentic browser\Assets\_Project\Scenes\between levels\Select Level.unity:1571: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\between levels\Select Level.unity:1627: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\between levels\Select Level.unity:1667: m_Name: achievment tab
+E:\Agentic browser\Assets\_Project\Scenes\between levels\Select Level.unity:1712: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\between levels\Select Level.unity:1752: m_Name: achievment 1
+E:\Agentic browser\Assets\_Project\Scenes\between levels\Select Level.unity:1787: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\between levels\Select Level.unity:1829: m_Name: Text User ID
+E:\Agentic browser\Assets\_Project\Scenes\between levels\Select Level.unity:1865: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\between levels\Select Level.unity:1886: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\between levels\Select Level.unity:1987: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\between levels\Select Level.unity:2027: m_Name: Text
+E:\Agentic browser\Assets\_Project\Scenes\between levels\Select Level.unity:2062: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\between levels\Select Level.unity:2164: m_Name: Text (TMP)
+E:\Agentic browser\Assets\_Project\Scenes\between levels\Select Level.unity:2199: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\between levels\Select Level.unity:2301: m_Name: Tutorial
+E:\Agentic browser\Assets\_Project\Scenes\between levels\Select Level.unity:2336: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\between levels\Select Level.unity:2403: m_Name: achievment End
+E:\Agentic browser\Assets\_Project\Scenes\between levels\Select Level.unity:2419: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\between levels\Select Level.unity:2477: m_Name: Text Area
+E:\Agentic browser\Assets\_Project\Scenes\between levels\Select Level.unity:2514: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\between levels\Select Level.unity:2530: m_Name: Text (TMP)
+E:\Agentic browser\Assets\_Project\Scenes\between levels\Select Level.unity:2546: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\between levels\Select Level.unity:2667: m_Name: Text (TMP)
+E:\Agentic browser\Assets\_Project\Scenes\between levels\Select Level.unity:2702: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\between levels\Select Level.unity:2805: m_Name: Placeholder
+E:\Agentic browser\Assets\_Project\Scenes\between levels\Select Level.unity:2840: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\between levels\Select Level.unity:2860: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\between levels\Select Level.unity:2962: m_Name: Text (TMP)
+E:\Agentic browser\Assets\_Project\Scenes\between levels\Select Level.unity:2997: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\between levels\Select Level.unity:3100: m_Name: Main Camera
+E:\Agentic browser\Assets\_Project\Scenes\between levels\Select Level.unity:3190: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\between levels\Select Level.unity:3237: m_Name: Canvas
+E:\Agentic browser\Assets\_Project\Scenes\between levels\Select Level.unity:3253: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\between levels\Select Level.unity:3270: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\between levels\Select Level.unity:3349: m_Name: achievment 3
+E:\Agentic browser\Assets\_Project\Scenes\between levels\Select Level.unity:3384: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\between levels\Select Level.unity:3424: m_Name: achievment 4
+E:\Agentic browser\Assets\_Project\Scenes\between levels\Select Level.unity:3459: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\between levels\Select Level.unity:3501: m_Name: Achievment button
+E:\Agentic browser\Assets\_Project\Scenes\between levels\Select Level.unity:3537: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\between levels\Select Level.unity:3593: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\between levels\Select Level.unity:3631: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\between levels\Select Level.unity:3649: m_Name: Text (TMP)
+E:\Agentic browser\Assets\_Project\Scenes\between levels\Select Level.unity:3684: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\between levels\Select Level.unity:3788: m_Name: Level 4
+E:\Agentic browser\Assets\_Project\Scenes\between levels\Select Level.unity:3824: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\between levels\Select Level.unity:3839: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\between levels\Select Level.unity:3895: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\between levels\Select Level.unity:3935: m_Name: Manager
+E:\Agentic browser\Assets\_Project\Scenes\between levels\Select Level.unity:3966: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\between levels\Select Level.unity:3978: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\between levels\Select Level.unity:4034: m_Name: Level 4
+E:\Agentic browser\Assets\_Project\Scenes\between levels\Select Level.unity:4077: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\between levels\Select Level.unity:4171: m_Name: Text (TMP)
+E:\Agentic browser\Assets\_Project\Scenes\between levels\Select Level.unity:4206: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\between levels\Select Level.unity:4310: m_Name: Level 3
+E:\Agentic browser\Assets\_Project\Scenes\between levels\Select Level.unity:4346: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\between levels\Select Level.unity:4361: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\between levels\Select Level.unity:4417: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\between levels\Select Level.unity:4459: m_Name: Level 1
+E:\Agentic browser\Assets\_Project\Scenes\between levels\Select Level.unity:4495: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\between levels\Select Level.unity:4510: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\between levels\Select Level.unity:4566: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\between levels\Title Screen.unity:134: m_Name: Text (TMP)
+E:\Agentic browser\Assets\_Project\Scenes\between levels\Title Screen.unity:169: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\between levels\Title Screen.unity:271: m_Name: EventSystem
+E:\Agentic browser\Assets\_Project\Scenes\between levels\Title Screen.unity:287: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\between levels\Title Screen.unity:318: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\between levels\Title Screen.unity:350: m_Name: Image
+E:\Agentic browser\Assets\_Project\Scenes\between levels\Title Screen.unity:385: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\between levels\Title Screen.unity:426: m_Name: Main Camera
+E:\Agentic browser\Assets\_Project\Scenes\between levels\Title Screen.unity:516: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\between levels\Title Screen.unity:563: m_Name: Canvas
+E:\Agentic browser\Assets\_Project\Scenes\between levels\Title Screen.unity:579: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\between levels\Title Screen.unity:596: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\between levels\Title Screen.unity:667: m_Name: Button
+E:\Agentic browser\Assets\_Project\Scenes\between levels\Title Screen.unity:703: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\between levels\Title Screen.unity:718: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\between levels\Title Screen.unity:774: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\between levels\Tutorial.unity:134: m_Name: Text (TMP)
+E:\Agentic browser\Assets\_Project\Scenes\between levels\Tutorial.unity:169: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\between levels\Tutorial.unity:271: m_Name: EventSystem
+E:\Agentic browser\Assets\_Project\Scenes\between levels\Tutorial.unity:287: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\between levels\Tutorial.unity:318: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\between levels\Tutorial.unity:350: m_Name: Image
+E:\Agentic browser\Assets\_Project\Scenes\between levels\Tutorial.unity:385: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\between levels\Tutorial.unity:426: m_Name: Main Camera
+E:\Agentic browser\Assets\_Project\Scenes\between levels\Tutorial.unity:516: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\between levels\Tutorial.unity:563: m_Name: Canvas
+E:\Agentic browser\Assets\_Project\Scenes\between levels\Tutorial.unity:579: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\between levels\Tutorial.unity:596: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\between levels\Tutorial.unity:667: m_Name: Button
+E:\Agentic browser\Assets\_Project\Scenes\between levels\Tutorial.unity:703: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\between levels\Tutorial.unity:718: m_Name:
+E:\Agentic browser\Assets\_Project\Scenes\between levels\Tutorial.unity:774: m_Name:
+E:\Agentic browser\Assets\_Project\Prefabs\Menu.prefab:15: m_Name: Text (Legacy)
+E:\Agentic browser\Assets\_Project\Prefabs\Menu.prefab:58: m_Name:
+E:\Agentic browser\Assets\_Project\Prefabs\Menu.prefab:96: m_Name: Menu
+E:\Agentic browser\Assets\_Project\Prefabs\Menu.prefab:140: m_Name:
+E:\Agentic browser\Assets\_Project\Prefabs\Menu.prefab:170: m_Name:
+E:\Agentic browser\Assets\_Project\Prefabs\Menu.prefab:226: m_Name:
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:15: m_Name: AIText
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:58: m_Name:
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:151: m_Name: ResultsButtonManager
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:182: m_Name:
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:206: m_Name: assistantChatManager
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:237: m_Name:
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:257: m_Name:
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:278: m_Name: Results_AssistantButton open
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:322: m_Name:
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:352: m_Name:
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:408: m_Name:
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:425: m_Name: AssistantPanel
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:470: m_Name:
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:502: m_Name: Text
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:545: m_Name:
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:637: m_Name: Sliding Area
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:675: m_Name: NewTabImage
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:719: m_Name:
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:752: m_Name: Canvas
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:811: m_Name:
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:834: m_Name:
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:853: m_Name: Text (Legacy)
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:896: m_Name:
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:934: m_Name: Search_Normal
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:978: m_Name:
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:1008: m_Name:
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:1109: m_Name:
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:1133: m_Name: Text (Legacy)
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:1176: m_Name:
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:1212: m_Name: Text (Legacy)
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:1255: m_Name:
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:1291: m_Name: Text (Legacy)
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:1334: m_Name:
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:1371: m_Name: Placeholder
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:1414: m_Name:
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:1506: m_Name:
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:1529: m_Name: Placeholder
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:1572: m_Name:
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:1664: m_Name:
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:1688: m_Name: Search_Normal_Assistant
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:1732: m_Name:
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:1762: m_Name:
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:1863: m_Name:
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:1887: m_Name: UserText
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:1930: m_Name:
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:2023: m_Name: Text Area
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:2060: m_Name:
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:2076: m_Name: Text (Legacy)
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:2119: m_Name:
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:2155: m_Name: Text
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:2198: m_Name:
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:2291: m_Name: GameManager
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:2322: m_Name:
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:2336: m_Name: Text (TMP)
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:2379: m_Name:
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:2473: m_Name: Text
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:2516: m_Name:
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:2609: m_Name: TabManager
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:2640: m_Name:
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:2660: m_Name: Text (Legacy)
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:2703: m_Name:
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:2739: m_Name: Content
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:2775: m_Name:
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:2801: m_Name:
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:2817: m_Name: Text
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:2860: m_Name:
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:2953: m_Name: Text Area
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:2990: m_Name:
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:3008: m_Name: Results_LinksButton
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:3052: m_Name:
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:3082: m_Name:
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:3138: m_Name:
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:3154: m_Name: SearchUiManager
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:3185: m_Name:
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:3206: m_Name: Results_AssistantButton
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:3250: m_Name:
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:3280: m_Name:
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:3336: m_Name:
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:3354: m_Name: AIBubble
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:3398: m_Name:
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:3428: m_Name:
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:3452: m_Name: Search_Results
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:3496: m_Name:
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:3526: m_Name:
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:3627: m_Name:
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:3652: m_Name: UserBubble
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:3697: m_Name:
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:3727: m_Name:
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:3747: m_Name: Managers
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:3788: m_Name: Search_Results_Assistant
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:3832: m_Name:
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:3862: m_Name:
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:3963: m_Name:
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:3987: m_Name: Text (Legacy)
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:4030: m_Name:
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:4068: m_Name: TAB Button
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:4112: m_Name:
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:4142: m_Name:
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:4186: m_Name:
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:4205: m_Name: NewTabButton
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:4249: m_Name:
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:4279: m_Name:
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:4338: m_Name: Placeholder
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:4381: m_Name:
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:4473: m_Name:
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:4495: m_Name: Text (Legacy)
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:4538: m_Name:
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:4575: m_Name: Placeholder
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:4618: m_Name:
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:4710: m_Name:
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:4733: m_Name: Scrollbar Vertical
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:4777: m_Name:
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:4807: m_Name:
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:4859: m_Name: Placeholder
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:4902: m_Name:
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:4994: m_Name:
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:5015: m_Name: Text Area
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:5052: m_Name:
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:5068: m_Name: EventSystem
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:5099: m_Name:
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:5114: m_Name:
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:5149: m_Name: Results_ImagesButton
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:5193: m_Name:
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:5223: m_Name:
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:5279: m_Name:
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:5297: m_Name: Assistant_Search
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:5341: m_Name:
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:5371: m_Name:
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:5472: m_Name: Sandbox
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:5511: m_Name: TAB Button (1)
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:5555: m_Name:
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:5585: m_Name:
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:5629: m_Name:
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:5647: m_Name: Text (Legacy)
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:5690: m_Name:
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:5728: m_Name: ' HomeButton'
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:5772: m_Name:
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:5802: m_Name:
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:5858: m_Name:
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:5877: m_Name: AssistantButton
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:5921: m_Name:
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:5951: m_Name:
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:6007: m_Name:
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:6026: m_Name: ResultsLinksButton open
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:6070: m_Name:
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:6100: m_Name:
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:6156: m_Name:
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:6173: m_Name: Text
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:6216: m_Name:
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:6309: m_Name: ScreenController
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:6340: m_Name:
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:6360: m_Name: Text (TMP)
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:6403: m_Name:
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:6498: m_Name: Scroll View
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:6543: m_Name:
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:6573: m_Name:
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:6605: m_Name: BrowserBackground
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:6664: m_Name:
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:6697: m_Name: Main Camera
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:6787: m_Name:
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:6835: m_Name: Results_ImagesButton open
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:6879: m_Name:
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:6909: m_Name:
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:6965: m_Name:
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:6983: m_Name: Viewport
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:7027: m_Name:
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:7057: m_Name:
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:7072: m_Name: Handle
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:7115: m_Name:
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:7146: m_Name: Text Area
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:7183: m_Name:
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:7198: m_Name: Text Area
+E:\Agentic browser\Assets\_Project\Prefabs\Sandbox.prefab:7235: m_Name:
+E:\Agentic browser\Assets\_Project\Prefabs\Core\HotspotButtonPrefab.prefab:16: m_Name: HotspotButtonPrefab
+E:\Agentic browser\Assets\_Project\Prefabs\Core\HotspotButtonPrefab.prefab:60: m_Name:
+E:\Agentic browser\Assets\_Project\Prefabs\Core\HotspotButtonPrefab.prefab:90: m_Name:
+E:\Agentic browser\Assets\_Project\Prefabs\Core\HotspotButtonPrefab.prefab:136: m_Name: Text (Legacy)
+E:\Agentic browser\Assets\_Project\Prefabs\Core\HotspotButtonPrefab.prefab:179: m_Name:
+E:\Agentic browser\Assets\_Project\Prefabs\UI\assistant.prefab:15: m_Name: Image (1)
+E:\Agentic browser\Assets\_Project\Prefabs\UI\assistant.prefab:58: m_Name:
+E:\Agentic browser\Assets\_Project\Prefabs\UI\assistant.prefab:90: m_Name: Image
+E:\Agentic browser\Assets\_Project\Prefabs\UI\assistant.prefab:133: m_Name:
+E:\Agentic browser\Assets\_Project\Prefabs\UI\assistant.prefab:165: m_Name: Image
+E:\Agentic browser\Assets\_Project\Prefabs\UI\assistant.prefab:208: m_Name:
+E:\Agentic browser\Assets\_Project\Prefabs\UI\assistant.prefab:239: m_Name: Armature_Idle_00_0
+E:\Agentic browser\Assets\_Project\Prefabs\UI\assistant.prefab:329: m_Name: assistant

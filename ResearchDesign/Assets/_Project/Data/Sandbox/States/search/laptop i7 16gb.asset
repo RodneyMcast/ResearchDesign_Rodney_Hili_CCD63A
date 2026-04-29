@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 66ccf1f3294a501408e2e5e5f1bbe0b6, type: 3}
+  m_Name: laptop i7 16gb
+  m_EditorClassIdentifier: Assembly-CSharp::SearchResultSet
+  queryKey: laptop i7 16gb
+  assistantClosed: {fileID: -4430260530031101649, guid: 9b20a9b15b639974f9a49ce5458ae0aa, type: 3}
+  assistantOpen: {fileID: -2233253427439564626, guid: 0cd0f3965460e1945817ddb3443c65ae, type: 3}
+  linksClosed: {fileID: -6201375367527045003, guid: c3953c44705714b448654998a4131890, type: 3}
+  linksOpen: {fileID: -9215818171856260706, guid: e38d6e6611db8964284e80b35744e912, type: 3}
+  imagesClosed: {fileID: 8240945129790917138, guid: af1e533ea5d4fca41b61173a1d523d88, type: 3}
+  imagesOpen: {fileID: 5273759008978574890, guid: 0b6cdb3792bc61f4282481b9be165639, type: 3}

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 66ccf1f3294a501408e2e5e5f1bbe0b6, type: 3}
+  m_Name: farmhouse for rent italy
+  m_EditorClassIdentifier: Assembly-CSharp::SearchResultSet
+  queryKey: farmhouse for rent italy
+  assistantClosed: {fileID: 4347633679898792927, guid: 2d782ef5fe6a82c448e985fc9c5897ec, type: 3}
+  assistantOpen: {fileID: -2199000799984174520, guid: 5a3304c2ec6aa8b4fb94310ca5e2ff27, type: 3}
+  linksClosed: {fileID: 7691642026074057003, guid: dc1b1527ac364b2488a5e9fa883a7ca1, type: 3}
+  linksOpen: {fileID: -5931788598388225778, guid: 87be7f09bf700ab42aab9fcb18ec5cf0, type: 3}
+  imagesClosed: {fileID: -1221210715383563467, guid: 79b4b1b0835f152458dc8b4da3b3b432, type: 3}
+  imagesOpen: {fileID: 4048753990181300366, guid: 285c1268897319846bbd53a6acdc9f67, type: 3}

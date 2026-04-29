@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 66ccf1f3294a501408e2e5e5f1bbe0b6, type: 3}
+  m_Name: ryzen 7 motherboard
+  m_EditorClassIdentifier: Assembly-CSharp::SearchResultSet
+  queryKey: ryzen 7 motherboard
+  assistantClosed: {fileID: -5886981480565579265, guid: c4928eb2d4bf4204db27554a5ce43a45, type: 3}
+  assistantOpen: {fileID: -4971645484926164457, guid: e15c9f7deaebb324a8529c1a09bb83a0, type: 3}
+  linksClosed: {fileID: -96470334372113662, guid: fb180d607290a0c4fb2fbe9aa61a0349, type: 3}
+  linksOpen: {fileID: -4971645484926164457, guid: e15c9f7deaebb324a8529c1a09bb83a0, type: 3}
+  imagesClosed: {fileID: -8691503412442585023, guid: 61a4ed526ce19bc4086b947e2d3463db, type: 3}
+  imagesOpen: {fileID: -6409476806305290017, guid: 414636d69c5dd0c4596b890d9cc53a9a, type: 3}

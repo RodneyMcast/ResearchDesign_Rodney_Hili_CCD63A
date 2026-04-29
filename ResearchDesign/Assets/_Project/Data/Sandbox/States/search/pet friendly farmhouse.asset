@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 66ccf1f3294a501408e2e5e5f1bbe0b6, type: 3}
+  m_Name: pet friendly farmhouse
+  m_EditorClassIdentifier: Assembly-CSharp::SearchResultSet
+  queryKey: pet friendly farmhouse
+  assistantClosed: {fileID: 5901432012711654312, guid: c6c28ed8366efab41b6ac6868dd85ace, type: 3}
+  assistantOpen: {fileID: 8880324173487007609, guid: bba9c1ce88fea0842aaa4537e27dc4f2, type: 3}
+  linksClosed: {fileID: 1203377899425838869, guid: b8aeb4b57ab420c4c9c324a9fd188aa4, type: 3}
+  linksOpen: {fileID: -8310377641992689081, guid: a31c1ccee1873054a96a4aff95e2fac4, type: 3}
+  imagesClosed: {fileID: 3979006904106549491, guid: 01dfb32d5394c474e9f11edc57be9458, type: 3}
+  imagesOpen: {fileID: -675482197598887172, guid: e221f2daa3fdae6408a61988b8a50b03, type: 3}

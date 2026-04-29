@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 66ccf1f3294a501408e2e5e5f1bbe0b6, type: 3}
+  m_Name: hotels in rome
+  m_EditorClassIdentifier: Assembly-CSharp::SearchResultSet
+  queryKey: hotels in rome
+  assistantClosed: {fileID: -1320379285323246800, guid: becc0ff05d615d64a93a16be5068129b, type: 3}
+  assistantOpen: {fileID: -7913480098290427361, guid: 3e774837847663a4d9c93715a581fdaa, type: 3}
+  linksClosed: {fileID: 8995803270110472905, guid: 61ab110e471dc054e829ef94c0d3b16a, type: 3}
+  linksOpen: {fileID: 7409249640151759120, guid: 839c3e33470efb24e9149ea7efe097a0, type: 3}
+  imagesClosed: {fileID: -720010553944424144, guid: ce70ef20eef5c184ab8786a8f01b97db, type: 3}
+  imagesOpen: {fileID: 2375188688030400333, guid: 6367a76c1c37c0942a59005e95da85e8, type: 3}

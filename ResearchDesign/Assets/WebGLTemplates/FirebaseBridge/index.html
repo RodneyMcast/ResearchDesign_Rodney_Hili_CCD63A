@@ -1,0 +1,420 @@
+﻿<!DOCTYPE html>
+<html lang="en-us">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{{ PRODUCT_NAME }}}</title>
+  <style>
+    html, body {
+      margin: 0;
+      padding: 0;
+      width: 100%;
+      height: 100%;
+      background: #10151c;
+      color: #f3f6fb;
+      font-family: Arial, sans-serif;
+    }
+
+    #unity-shell {
+      display: flex;
+      flex-direction: column;
+      width: 100%;
+      height: 100%;
+    }
+
+    #unity-container {
+      position: relative;
+      flex: 1;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background: #0d1218;
+    }
+
+    #unity-canvas {
+      width: 100%;
+      height: 100%;
+      background: #0d1218;
+    }
+
+    #unity-overlay {
+      position: absolute;
+      inset: 0;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 14px;
+      background: rgba(13, 18, 24, 0.92);
+      z-index: 2;
+    }
+
+    #unity-progress-bar {
+      width: min(360px, 70vw);
+      height: 10px;
+      border-radius: 999px;
+      background: rgba(255, 255, 255, 0.12);
+      overflow: hidden;
+    }
+
+    #unity-progress-fill {
+      width: 0%;
+      height: 100%;
+      background: linear-gradient(90deg, #54c6eb, #80f6d4);
+      transition: width 0.2s ease;
+    }
+
+  </style>
+</head>
+<body>
+  <div id="unity-shell">
+    <div id="unity-container">
+      <canvas id="unity-canvas" tabindex="-1"></canvas>
+      <div id="unity-overlay">
+        <div id="unity-status">Loading {{{ PRODUCT_NAME }}}...</div>
+        <div id="unity-progress-bar">
+          <div id="unity-progress-fill"></div>
+        </div>
+      </div>
+    </div>
+
+  </div>
+
+  <script>
+    window.myGameInstance = null;
+    window.FirebaseBridge = {
+      savePlayerData: function () {
+        console.error('[FirebaseBridge] Firebase module not ready yet.');
+      },
+      getPlayerData: function () {
+        console.error('[FirebaseBridge] Firebase module not ready yet.');
+      },
+      submitLevelAttempt: function () {
+        console.error('[FirebaseBridge] Firebase module not ready yet.');
+      }
+    };
+  </script>
+
+  <script type="module">
+    import { initializeApp } from "https://www.gstatic.com/firebasejs/12.11.0/firebase-app.js";
+    import { collection, doc, getDoc, getDocs, getFirestore, serverTimestamp, setDoc } from "https://www.gstatic.com/firebasejs/12.11.0/firebase-firestore.js";
+
+    const firebaseConfig = {
+      apiKey: "AIzaSyCQ0dhrRyeZ7KT8Ev6PRjIM9cnrfKcgNcg",
+      authDomain: "agentic-browsers.firebaseapp.com",
+      projectId: "agentic-browsers",
+      storageBucket: "agentic-browsers.firebasestorage.app",
+      messagingSenderId: "844949148850",
+      appId: "1:844949148850:web:58c7f9fc8c9d6d0efde5ab"
+    };
+
+    const app = initializeApp(firebaseConfig);
+    const db = getFirestore(app);
+
+    const sendToUnity = (payload) => {
+      const serialized = JSON.stringify(payload);
+
+      if (!window.myGameInstance) {
+        console.warn('[FirebaseBridge] Unity instance is not ready yet.', payload);
+        return;
+      }
+
+      window.myGameInstance.SendMessage('FirebaseManager', 'ReceiveFromJS', serialized);
+    };
+
+    const readParticipantId = (data) => {
+      return (data?.participant_id || data?.participantId || data?.id || data?.userId || '').toString().trim();
+    };
+
+    const parseLevelNumber = (levelId) => {
+      const match = /([0-9]+)/.exec((levelId || '').toString());
+      if (!match) {
+        return 0;
+      }
+
+      const parsed = parseInt(match[1], 10);
+      return Number.isFinite(parsed) ? parsed : 0;
+    };
+
+    const upsertUserDocument = async (participantId, payload) => {
+      const userRef = doc(db, 'users', participantId);
+      const userSnapshot = await getDoc(userRef);
+      const existing = userSnapshot.exists() ? userSnapshot.data() : {};
+
+      const update = {
+        participant_id: participantId
+      };
+
+      const currentLevel = (payload?.current_level || payload?.currentLevel || payload?.levelScene || '').toString().trim();
+      if (currentLevel) {
+        update.current_level = currentLevel;
+      } else if (!userSnapshot.exists()) {
+        update.current_level = '';
+      }
+
+      if (!userSnapshot.exists()) {
+        update.created_at = serverTimestamp();
+        update.game_completed = false;
+        update.total_levels_cleared = 0;
+      }
+
+      if (typeof payload?.game_completed === 'boolean') {
+        update.game_completed = Boolean(payload.game_completed) || Boolean(existing.game_completed);
+      }
+
+      if (typeof payload?.total_levels_cleared === 'number' && Number.isFinite(payload.total_levels_cleared)) {
+        const previous = Number(existing.total_levels_cleared || 0);
+        update.total_levels_cleared = Math.max(previous, payload.total_levels_cleared);
+      }
+
+      await setDoc(userRef, update, { merge: true });
+      return userRef;
+    };
+
+    window.FirebaseBridge = {
+      savePlayerData: async function (json) {
+        try {
+          const data = JSON.parse(json);
+          const participantId = readParticipantId(data);
+
+          if (!participantId) {
+            throw new Error('SavePlayerData payload must contain a non-empty participant ID.');
+          }
+
+          await upsertUserDocument(participantId, data);
+
+          sendToUnity({
+            type: 'save',
+            status: 'success',
+            documentId: participantId,
+            participantId: participantId,
+            levelId: '',
+            payload: '',
+            message: 'User document saved successfully.'
+          });
+        } catch (error) {
+          console.error('[FirebaseBridge] User save failed.', error);
+          sendToUnity({
+            type: 'save',
+            status: 'error',
+            documentId: '',
+            participantId: '',
+            levelId: '',
+            payload: '',
+            message: error && error.message ? error.message : 'Unknown user save error.'
+          });
+        }
+      },
+
+      getPlayerData: async function (id) {
+        try {
+          const participantId = (id || '').toString().trim();
+          if (!participantId) {
+            throw new Error('GetPlayerData requires a non-empty participant ID.');
+          }
+
+          const userRef = doc(db, 'users', participantId);
+          const userSnapshot = await getDoc(userRef);
+          if (!userSnapshot.exists()) {
+            sendToUnity({
+              type: 'get',
+              status: 'not_found',
+              documentId: participantId,
+              participantId: participantId,
+              levelId: '',
+              payload: '',
+              message: 'No user document exists for that participant ID.'
+            });
+            return;
+          }
+
+          const userData = userSnapshot.data() || {};
+          const levelsSnapshot = await getDocs(collection(userRef, 'levels'));
+          const levels = [];
+
+          for (const levelDoc of levelsSnapshot.docs) {
+            const attemptsSnapshot = await getDocs(collection(levelDoc.ref, 'attempts'));
+            const attempts = attemptsSnapshot.docs.map((attemptDoc) => {
+              const attemptData = attemptDoc.data() || {};
+              return {
+                attemptId: attemptDoc.id,
+                status: (attemptData.status || '').toString(),
+                finalScore: Number(attemptData.final_score || 0),
+                durationSeconds: Number(attemptData.duration_seconds || 0),
+                hintsUsed: Number(attemptData.hints_used || 0),
+                mistakesMade: Number(attemptData.mistakes_made || 0)
+              };
+            });
+
+            levels.push({
+              levelId: levelDoc.id,
+              attempts: attempts
+            });
+          }
+
+          sendToUnity({
+            type: 'get',
+            status: 'success',
+            documentId: participantId,
+            participantId: participantId,
+            levelId: '',
+            payload: JSON.stringify({
+              participantId: participantId,
+              currentLevel: (userData.current_level || '').toString(),
+              totalLevelsCleared: Number(userData.total_levels_cleared || 0),
+              gameCompleted: Boolean(userData.game_completed),
+              levels: levels
+            }),
+            message: 'Player data loaded successfully.'
+          });
+        } catch (error) {
+          console.error('[FirebaseBridge] User get failed.', error);
+          sendToUnity({
+            type: 'get',
+            status: 'error',
+            documentId: (id || '').toString(),
+            participantId: (id || '').toString(),
+            levelId: '',
+            payload: '',
+            message: error && error.message ? error.message : 'Unknown user get error.'
+          });
+        }
+      },
+
+      submitLevelAttempt: async function (json) {
+        try {
+          const data = JSON.parse(json);
+          const participantId = readParticipantId(data);
+          const levelId = (data?.levelId || '').toString().trim();
+
+          if (!participantId) {
+            throw new Error('Attempt payload must include a non-empty participantId.');
+          }
+
+          if (!levelId) {
+            throw new Error('Attempt payload must include a non-empty levelId.');
+          }
+
+          const userRef = doc(db, 'users', participantId);
+          const userSnapshot = await getDoc(userRef);
+          const existingUser = userSnapshot.exists() ? userSnapshot.data() : {};
+
+          const levelRef = doc(userRef, 'levels', levelId);
+          const attemptsRef = collection(levelRef, 'attempts');
+          const attemptsSnapshot = await getDocs(attemptsRef);
+
+          let maxAttemptId = 0;
+          attemptsSnapshot.forEach((attemptDoc) => {
+            const parsed = parseInt(attemptDoc.id, 10);
+            if (Number.isFinite(parsed) && parsed > maxAttemptId) {
+              maxAttemptId = parsed;
+            }
+          });
+
+          const attemptId = String(maxAttemptId + 1);
+          const levelNumber = parseLevelNumber(levelId);
+          const previousCleared = Number(existingUser.total_levels_cleared || 0);
+          const completed = (data?.status || '').toString() === 'Completed';
+          const nextCleared = completed ? Math.max(previousCleared, levelNumber) : previousCleared;
+
+          const userUpdate = {
+            participant_id: participantId,
+            current_level: (data?.currentLevel || data?.levelScene || levelId || '').toString(),
+            total_levels_cleared: nextCleared,
+            game_completed: Boolean(existingUser.game_completed) || (completed && levelNumber >= 4)
+          };
+
+          if (!userSnapshot.exists()) {
+            userUpdate.created_at = serverTimestamp();
+          }
+
+          await setDoc(userRef, userUpdate, { merge: true });
+          await setDoc(levelRef, {
+            level_id: levelId,
+            updated_at: serverTimestamp()
+          }, { merge: true });
+
+          await setDoc(doc(attemptsRef, attemptId), {
+            level_scene: (data?.levelScene || data?.currentLevel || '').toString(),
+            status: (data?.status || 'Abandoned').toString(),
+            duration_seconds: Number(data?.durationSeconds || 0),
+            final_score: Number(data?.finalScore || 0),
+            mistakes_made: Number(data?.mistakesMade || 0),
+            hints_used: Number(data?.hintsUsed || 0),
+            mistake_details: Array.isArray(data?.mistakeDetails) ? data.mistakeDetails : [],
+            hint_details: Array.isArray(data?.hintDetails) ? data.hintDetails : [],
+            action_stream: Array.isArray(data?.actionStream) ? data.actionStream : [],
+            submitted_at: serverTimestamp()
+          });
+
+          sendToUnity({
+            type: 'attempt',
+            status: 'success',
+            documentId: attemptId,
+            participantId: participantId,
+            levelId: levelId,
+            payload: '',
+            message: 'Attempt data saved successfully.'
+          });
+        } catch (error) {
+          console.error('[FirebaseBridge] Attempt submit failed.', error);
+          sendToUnity({
+            type: 'attempt',
+            status: 'error',
+            documentId: '',
+            participantId: '',
+            levelId: '',
+            payload: '',
+            message: error && error.message ? error.message : 'Unknown attempt submit error.'
+          });
+        }
+      }
+    };
+  </script>
+
+  <script>
+    const canvas = document.querySelector('#unity-canvas');
+    const overlay = document.querySelector('#unity-overlay');
+    const statusLabel = document.querySelector('#unity-status');
+    const progressFill = document.querySelector('#unity-progress-fill');
+
+    const buildUrl = 'Build';
+    const loaderUrl = buildUrl + '/{{{ LOADER_FILENAME }}}';
+    const config = {
+      dataUrl: buildUrl + '/{{{ DATA_FILENAME }}}',
+      frameworkUrl: buildUrl + '/{{{ FRAMEWORK_FILENAME }}}',
+      codeUrl: buildUrl + '/{{{ CODE_FILENAME }}}',
+#if MEMORY_FILENAME
+      memoryUrl: buildUrl + '/{{{ MEMORY_FILENAME }}}',
+#endif
+#if SYMBOLS_FILENAME
+      symbolsUrl: buildUrl + '/{{{ SYMBOLS_FILENAME }}}',
+#endif
+      streamingAssetsUrl: 'StreamingAssets',
+      companyName: '{{{ COMPANY_NAME }}}',
+      productName: '{{{ PRODUCT_NAME }}}',
+      productVersion: '{{{ PRODUCT_VERSION }}}'
+    };
+
+    const loaderScript = document.createElement('script');
+    loaderScript.src = loaderUrl;
+    loaderScript.onload = () => {
+      createUnityInstance(canvas, config, (progress) => {
+        progressFill.style.width = (progress * 100) + '%';
+        statusLabel.textContent = 'Loading {{{ PRODUCT_NAME }}}... ' + Math.round(progress * 100) + '%';
+      }).then((unityInstance) => {
+        window.myGameInstance = unityInstance;
+        statusLabel.textContent = '{{{ PRODUCT_NAME }}} loaded';
+        overlay.style.display = 'none';
+      }).catch((message) => {
+        console.error(message);
+        statusLabel.textContent = 'Failed to load build';
+      });
+    };
+
+    document.body.appendChild(loaderScript);
+  </script>
+</body>
+</html>
+

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 66ccf1f3294a501408e2e5e5f1bbe0b6, type: 3}
+  m_Name: flights to rome
+  m_EditorClassIdentifier: Assembly-CSharp::SearchResultSet
+  queryKey: flights to rome
+  assistantClosed: {fileID: -6594664200082657740, guid: 80f930a803edd0f4ea7a62b1011bfec8, type: 3}
+  assistantOpen: {fileID: -4277972702499425320, guid: 61ca5ff30b55aef46b6f98214472ff07, type: 3}
+  linksClosed: {fileID: -1077749823202033902, guid: 16e36c423f585fc4886ac3ca1769edc4, type: 3}
+  linksOpen: {fileID: -7625071287398481432, guid: 53571222641b5a94fab5e94c05b3f3cd, type: 3}
+  imagesClosed: {fileID: -2232940056334726650, guid: dec77077c4002bb44b79d0cf1b3d5205, type: 3}
+  imagesOpen: {fileID: 5949422749594199527, guid: 20c3a6d575b1cfc438cf69ce1221e0cf, type: 3}

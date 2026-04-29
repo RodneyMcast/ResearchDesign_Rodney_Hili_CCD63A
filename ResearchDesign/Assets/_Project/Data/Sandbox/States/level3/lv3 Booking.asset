@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c7597dae88b21dc43a29a86195a97c0c, type: 3}
+  m_Name: lv3 Booking
+  m_EditorClassIdentifier: Assembly-CSharp::ScreenState
+  stateId: lv3 Booking
+  assistantClosed: {fileID: 8857807313130366919, guid: b0a0517fae28a8b4ba9d71e5d733387a, type: 3}
+  assistantOpen: {fileID: -6485449525813043594, guid: 46b0f90c14de8ea418819a3464a4412d, type: 3}
+  searchLayout: 1
+  resultsTab: 0

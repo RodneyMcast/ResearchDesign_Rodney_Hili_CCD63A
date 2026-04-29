@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 66ccf1f3294a501408e2e5e5f1bbe0b6, type: 3}
+  m_Name: iphone deals near me
+  m_EditorClassIdentifier: Assembly-CSharp::SearchResultSet
+  queryKey: iphone deals near me
+  assistantClosed: {fileID: -5789213610575500180, guid: 597892f0cdee3c44499b64b48edce270, type: 3}
+  assistantOpen: {fileID: 6848077184068533367, guid: ba0badb49b3b84d449548206d89dd655, type: 3}
+  linksClosed: {fileID: 8963931913696604787, guid: b3de8ca1cafc7ad46a655506d837de03, type: 3}
+  linksOpen: {fileID: 8408727192210817439, guid: 373be418cda8fd74d96cd4490ea07d57, type: 3}
+  imagesClosed: {fileID: 1435524234101691444, guid: a52ede8e81aa5344fbcc25fbdf235e99, type: 3}
+  imagesOpen: {fileID: -5150967252607279349, guid: 1142ca6be9088ad49b5c62fadcb03ee6, type: 3}

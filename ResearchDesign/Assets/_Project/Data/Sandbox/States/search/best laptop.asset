@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 66ccf1f3294a501408e2e5e5f1bbe0b6, type: 3}
+  m_Name: best laptop
+  m_EditorClassIdentifier: Assembly-CSharp::SearchResultSet
+  queryKey: best laptop
+  assistantClosed: {fileID: 3013066256271867277, guid: e5dd3f7b07b171849906061cd43b32e9, type: 3}
+  assistantOpen: {fileID: -7629510906296201622, guid: b87ad96f92c089f4e84258ebf7c81dd2, type: 3}
+  linksClosed: {fileID: -8528131470270212067, guid: 36001a25d7ce5b54cbc41c94672b1aeb, type: 3}
+  linksOpen: {fileID: 6093452540124679055, guid: 669051b66a834c441a9e7ea42b1af9fb, type: 3}
+  imagesClosed: {fileID: 1005725743615477850, guid: fccb201e5232bd14382729637168cfce, type: 3}
+  imagesOpen: {fileID: -712232338002550298, guid: 36beb5253f9743f48be49290f08cd771, type: 3}

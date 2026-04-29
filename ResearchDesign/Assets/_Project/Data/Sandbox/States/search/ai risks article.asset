@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 66ccf1f3294a501408e2e5e5f1bbe0b6, type: 3}
+  m_Name: ai risks article
+  m_EditorClassIdentifier: Assembly-CSharp::SearchResultSet
+  queryKey: ai risks article
+  assistantClosed: {fileID: -6685723732641655039, guid: 32fcf92f1618c4c42a8771da97c3c12d, type: 3}
+  assistantOpen: {fileID: 660248084960364252, guid: fa81339070c657a41ae945f601e43f8a, type: 3}
+  linksClosed: {fileID: 3674157261000834498, guid: 67d971d078c09b44f8ad9443f50787eb, type: 3}
+  linksOpen: {fileID: 8608599910393083439, guid: 452f9ac290a6d9a4b9df5e881c4ff6bf, type: 3}
+  imagesClosed: {fileID: -6150681745805040234, guid: 45386586e912a6341816c9875acc5b10, type: 3}
+  imagesOpen: {fileID: -2448245942048723000, guid: 571c941ba36200f45bf97041bbe25c9d, type: 3}
