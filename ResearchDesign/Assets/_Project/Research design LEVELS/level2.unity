@@ -359,7 +359,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &108799213
 RectTransform:
   m_ObjectHideFlags: 0
@@ -887,7 +887,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &439707368
 Transform:
   m_ObjectHideFlags: 0
@@ -1380,11 +1380,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 808852720}
   m_CullTransparentMesh: 1
---- !u!1 &811157493 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 2231370140537368007, guid: 501e084b0f35f084bbff567eebf81d2b, type: 3}
-  m_PrefabInstance: {fileID: 1729684350139205287}
-  m_PrefabAsset: {fileID: 0}
 --- !u!224 &811157494 stripped
 RectTransform:
   m_CorrespondingSourceObject: {fileID: 2135596490071750684, guid: 501e084b0f35f084bbff567eebf81d2b, type: 3}
@@ -1410,11 +1405,6 @@ MonoBehaviour:
 RectTransform:
   m_CorrespondingSourceObject: {fileID: 7438681241758415341, guid: 8e4767412e3c44cc4a17f20cbec34281, type: 3}
   m_PrefabInstance: {fileID: 2059233938}
-  m_PrefabAsset: {fileID: 0}
---- !u!1 &835632346 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 6429436197619342656, guid: 033d49514ccd6b1489d3a1968730f3d5, type: 3}
-  m_PrefabInstance: {fileID: 1677605276}
   m_PrefabAsset: {fileID: 0}
 --- !u!224 &835632347 stripped
 RectTransform:
@@ -1447,7 +1437,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1109933017
 Transform:
   m_ObjectHideFlags: 0
@@ -1989,7 +1979,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1474541441
 Transform:
   m_ObjectHideFlags: 0
@@ -2746,6 +2736,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: FireWork
       objectReference: {fileID: 0}
+    - target: {fileID: 6429436197619342656, guid: 033d49514ccd6b1489d3a1968730f3d5, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -3275,10 +3269,10 @@ MonoBehaviour:
   introMessageHoldSeconds: 3
   stuckStepGuideDelaySeconds: 12
   stuckStepGuideVisibleSeconds: 5
-  hintButtonRequestAnimationObject: {fileID: 811157493}
+  hintButtonRequestAnimationObject: {fileID: 0}
   hintButtonRequestAnimationDelaySeconds: 20
   hintButtonRequestAnimationVisibleSeconds: 10
-  stepEffectObject: {fileID: 835632346}
+  stepEffectObject: {fileID: 0}
   hideStepEffectWhenIdle: 1
   autoHideUsingAnimatorState: 1
   stepEffectAnimationStateName: FireWORK ANIMATION
@@ -3294,20 +3288,20 @@ MonoBehaviour:
   stepEffectAudioSource: {fileID: 1785516261}
   stepCompletedSound: {fileID: 8300000, guid: 65dee380da9e9a2448bcbe9e6af754c8, type: 3}
   stepCompletedSoundDelay: 0
-  winFireworksEffectObject: {fileID: 1975692326}
+  winFireworksEffectObject: {fileID: 0}
   hideWinFireworksWhenIdle: 1
   autoHideWinFireworksUsingAnimatorState: 1
   winFireworksAnimationStateName: FireWORK ANIMATION
   winFireworksAutoHideTimeout: 3
   winFireworksVisibleDuration: 1.5
-  winFireworksAnimator: {fileID: 1975692327}
+  winFireworksAnimator: {fileID: 0}
   winFireworksParameterName: firework
   winFireworksUsesBoolParameter: 1
   winFireworksBoolResetDelay: 0.15
   winFireworksWaitForEnterTimeout: 0.5
   winFireworksMinResetDelayAfterEnter: 0.1
   winFireworksWaitForCompletionTimeout: 3
-  winFireworksAudioSource: {fileID: 1785516261}
+  winFireworksAudioSource: {fileID: 0}
   winFireworksSound: {fileID: 8300000, guid: 0a9bcda5cdff49e40a7ae6dc0f4647d0, type: 3}
   winFireworksSoundDelay: 0.5
   winFireworksRiseHeight: 250
@@ -3338,7 +3332,7 @@ AudioSource:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1785516257}
-  m_Enabled: 1
+  m_Enabled: 0
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 0}
@@ -3703,6 +3697,10 @@ PrefabInstance:
     - target: {fileID: 3752093192276147212, guid: cdc6de1e883e55445a8695cb0f70ff68, type: 3}
       propertyPath: m_AnchoredPosition.y
       value: -0.4999981
+      objectReference: {fileID: 0}
+    - target: {fileID: 4641709999988313624, guid: cdc6de1e883e55445a8695cb0f70ff68, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5076664323052602707, guid: cdc6de1e883e55445a8695cb0f70ff68, type: 3}
       propertyPath: m_AnchoredPosition.x
@@ -4184,6 +4182,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: FireWorkWin
       objectReference: {fileID: 0}
+    - target: {fileID: 5223268555832336597, guid: f93c6fcb72161d7429d3f1db638a9ae1, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -4192,16 +4194,6 @@ PrefabInstance:
 --- !u!224 &1975692325 stripped
 RectTransform:
   m_CorrespondingSourceObject: {fileID: 1413245372825141481, guid: f93c6fcb72161d7429d3f1db638a9ae1, type: 3}
-  m_PrefabInstance: {fileID: 1975692324}
-  m_PrefabAsset: {fileID: 0}
---- !u!1 &1975692326 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 5223268555832336597, guid: f93c6fcb72161d7429d3f1db638a9ae1, type: 3}
-  m_PrefabInstance: {fileID: 1975692324}
-  m_PrefabAsset: {fileID: 0}
---- !u!95 &1975692327 stripped
-Animator:
-  m_CorrespondingSourceObject: {fileID: 8013879804788125064, guid: f93c6fcb72161d7429d3f1db638a9ae1, type: 3}
   m_PrefabInstance: {fileID: 1975692324}
   m_PrefabAsset: {fileID: 0}
 --- !u!1 &2018176350
@@ -4601,7 +4593,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7438681241758415340, guid: 8e4767412e3c44cc4a17f20cbec34281, type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7438681241758415341, guid: 8e4767412e3c44cc4a17f20cbec34281, type: 3}
       propertyPath: m_Pivot.x
