@@ -1,0 +1,16 @@
+{
+  "name": "researchdesign-firebase-tools",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "firebase:login": "firebase login",
+    "firebase:deploy": "firebase deploy",
+    "firebase:deploy:firestore": "firebase deploy --only firestore",
+    "firebase:deploy:hosting": "firebase deploy --only hosting",
+    "firebase:emulators": "firebase emulators:start",
+    "firebase:use": "firebase use researchdesign2-edb89"
+  },
+  "devDependencies": {
+    "firebase-tools": "^13.35.1"
+  }
+}

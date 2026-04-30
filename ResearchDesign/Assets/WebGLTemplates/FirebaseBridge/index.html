@@ -99,18 +99,25 @@
   <script type="module">
     import { initializeApp } from "https://www.gstatic.com/firebasejs/12.11.0/firebase-app.js";
     import { collection, doc, getDoc, getDocs, getFirestore, serverTimestamp, setDoc } from "https://www.gstatic.com/firebasejs/12.11.0/firebase-firestore.js";
+    import { getAnalytics } from "https://www.gstatic.com/firebasejs/12.11.0/firebase-analytics.js";
 
     const firebaseConfig = {
-      apiKey: "AIzaSyCQ0dhrRyeZ7KT8Ev6PRjIM9cnrfKcgNcg",
-      authDomain: "agentic-browsers.firebaseapp.com",
-      projectId: "agentic-browsers",
-      storageBucket: "agentic-browsers.firebasestorage.app",
-      messagingSenderId: "844949148850",
-      appId: "1:844949148850:web:58c7f9fc8c9d6d0efde5ab"
+      apiKey: "AIzaSyBBtJK9cOEmZgvlzRjHkVF-FTk6YLakZxI",
+      authDomain: "researchdesign2-edb89.firebaseapp.com",
+      projectId: "researchdesign2-edb89",
+      storageBucket: "researchdesign2-edb89.firebasestorage.app",
+      messagingSenderId: "448630563931",
+      appId: "1:448630563931:web:d8887e967cebb3009f8b7e",
+      measurementId: "G-311JVW2C7C"
     };
 
     const app = initializeApp(firebaseConfig);
     const db = getFirestore(app);
+    try {
+      getAnalytics(app);
+    } catch (error) {
+      console.warn('[FirebaseBridge] Analytics is unavailable for this build.', error);
+    }
 
     const sendToUnity = (payload) => {
       const serialized = JSON.stringify(payload);

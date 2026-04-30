@@ -1,0 +1,19 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    match /users/{participantId} {
+      allow read, create, update: if true;
+      allow delete: if false;
+
+      match /levels/{levelId} {
+        allow read, create, update: if true;
+        allow delete: if false;
+
+        match /attempts/{attemptId} {
+          allow read, create, update: if true;
+          allow delete: if false;
+        }
+      }
+    }
+  }
+}
