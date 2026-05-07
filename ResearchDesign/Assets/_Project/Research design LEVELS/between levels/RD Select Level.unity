@@ -1348,8 +1348,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::RestartGame
   useSelectedScene: 1
-  sceneToLoadAsset: {fileID: 102900000, guid: 8bc7d7662710cb84fb1cb79c6292ad7f, type: 3}
-  sceneToLoad: level 2 Assistant
+  sceneToLoadAsset: {fileID: 102900000, guid: ece18ea18a7ebe147a5391b2ddc6094b, type: 3}
+  sceneToLoad: RD level 2 Assistant
 --- !u!114 &412813761
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1669,7 +1669,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &579864996
 RectTransform:
   m_ObjectHideFlags: 0
@@ -3505,7 +3505,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1402850137
 RectTransform:
   m_ObjectHideFlags: 0
@@ -3826,8 +3826,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::RestartGame
   useSelectedScene: 1
-  sceneToLoadAsset: {fileID: 102900000, guid: f3a30427d1af82946831fd4fde3eba18, type: 3}
-  sceneToLoad: level 4 Assistant
+  sceneToLoadAsset: {fileID: 102900000, guid: fb604ef7b5a795146b4b94a2e0521c6f, type: 3}
+  sceneToLoad: RD level 4 Assistant
 --- !u!114 &1518879623
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4429,8 +4429,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::RestartGame
   useSelectedScene: 1
-  sceneToLoadAsset: {fileID: 102900000, guid: 4277b439278453e4885a6cdd81096d29, type: 3}
-  sceneToLoad: level 3 Assistant
+  sceneToLoadAsset: {fileID: 102900000, guid: adc1d39f5bcf1b747a85b973fa74d15a, type: 3}
+  sceneToLoad: RD level 3 Assistant
 --- !u!114 &2091583224
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4578,8 +4578,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::RestartGame
   useSelectedScene: 1
-  sceneToLoadAsset: {fileID: 102900000, guid: 28ca77b9d722c8d4ea427915e0599f19, type: 3}
-  sceneToLoad: Tutorial V2
+  sceneToLoadAsset: {fileID: 102900000, guid: 70b73eaa6046f014b827c4f4eea52f44, type: 3}
+  sceneToLoad: RD level 1 Assistant
 --- !u!114 &2094753620
 MonoBehaviour:
   m_ObjectHideFlags: 0

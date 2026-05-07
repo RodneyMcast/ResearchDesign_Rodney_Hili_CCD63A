@@ -429,7 +429,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &108799213
 RectTransform:
   m_ObjectHideFlags: 0
@@ -1172,7 +1172,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &439707368
 Transform:
   m_ObjectHideFlags: 0
@@ -1373,11 +1373,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 478738964}
   m_CullTransparentMesh: 1
---- !u!1 &507850300 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 982212916657837630, guid: e5be5fde04742f74cba97399e9d421e2, type: 3}
-  m_PrefabInstance: {fileID: 635389314}
-  m_PrefabAsset: {fileID: 0}
 --- !u!224 &507850301 stripped
 RectTransform:
   m_CorrespondingSourceObject: {fileID: 6502090638128825956, guid: e5be5fde04742f74cba97399e9d421e2, type: 3}
@@ -1950,11 +1945,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 740451469}
   m_CullTransparentMesh: 1
---- !u!1 &743475969 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 2231370140537368007, guid: 501e084b0f35f084bbff567eebf81d2b, type: 3}
-  m_PrefabInstance: {fileID: 1302529190}
-  m_PrefabAsset: {fileID: 0}
 --- !u!224 &743475970 stripped
 RectTransform:
   m_CorrespondingSourceObject: {fileID: 2135596490071750684, guid: 501e084b0f35f084bbff567eebf81d2b, type: 3}
@@ -2882,7 +2872,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1109933017
 Transform:
   m_ObjectHideFlags: 0
@@ -2913,11 +2903,6 @@ MonoBehaviour:
   progressBarUI: {fileID: 829607163}
   robotUI: {fileID: 108799212}
   hideOnStart: 1
---- !u!1 &1151326447 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 982212916657837630, guid: e5be5fde04742f74cba97399e9d421e2, type: 3}
-  m_PrefabInstance: {fileID: 1645877152}
-  m_PrefabAsset: {fileID: 0}
 --- !u!224 &1151326448 stripped
 RectTransform:
   m_CorrespondingSourceObject: {fileID: 6502090638128825956, guid: e5be5fde04742f74cba97399e9d421e2, type: 3}
@@ -4045,11 +4030,6 @@ RectTransform:
   m_CorrespondingSourceObject: {fileID: 3553844428451508631, guid: cdc6de1e883e55445a8695cb0f70ff68, type: 3}
   m_PrefabInstance: {fileID: 1910872843}
   m_PrefabAsset: {fileID: 0}
---- !u!1 &1449937454 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 982212916657837630, guid: e5be5fde04742f74cba97399e9d421e2, type: 3}
-  m_PrefabInstance: {fileID: 640648686}
-  m_PrefabAsset: {fileID: 0}
 --- !u!224 &1449937455 stripped
 RectTransform:
   m_CorrespondingSourceObject: {fileID: 6502090638128825956, guid: e5be5fde04742f74cba97399e9d421e2, type: 3}
@@ -4220,7 +4200,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1474541441
 Transform:
   m_ObjectHideFlags: 0
@@ -4548,19 +4528,9 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1567551424}
   m_CullTransparentMesh: 1
---- !u!1 &1602261180 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 5223268555832336597, guid: f93c6fcb72161d7429d3f1db638a9ae1, type: 3}
-  m_PrefabInstance: {fileID: 7513684796849377439}
-  m_PrefabAsset: {fileID: 0}
 --- !u!224 &1602261181 stripped
 RectTransform:
   m_CorrespondingSourceObject: {fileID: 1413245372825141481, guid: f93c6fcb72161d7429d3f1db638a9ae1, type: 3}
-  m_PrefabInstance: {fileID: 7513684796849377439}
-  m_PrefabAsset: {fileID: 0}
---- !u!95 &1602261182 stripped
-Animator:
-  m_CorrespondingSourceObject: {fileID: 8013879804788125064, guid: f93c6fcb72161d7429d3f1db638a9ae1, type: 3}
   m_PrefabInstance: {fileID: 7513684796849377439}
   m_PrefabAsset: {fileID: 0}
 --- !u!1 &1602313534
@@ -5200,6 +5170,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: FireWork
       objectReference: {fileID: 0}
+    - target: {fileID: 6429436197619342656, guid: 033d49514ccd6b1489d3a1968730f3d5, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -5208,16 +5182,6 @@ PrefabInstance:
 --- !u!224 &1711597123 stripped
 RectTransform:
   m_CorrespondingSourceObject: {fileID: 1638543477447628455, guid: 033d49514ccd6b1489d3a1968730f3d5, type: 3}
-  m_PrefabInstance: {fileID: 1711597122}
-  m_PrefabAsset: {fileID: 0}
---- !u!1 &1711597124 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 6429436197619342656, guid: 033d49514ccd6b1489d3a1968730f3d5, type: 3}
-  m_PrefabInstance: {fileID: 1711597122}
-  m_PrefabAsset: {fileID: 0}
---- !u!95 &1711597125 stripped
-Animator:
-  m_CorrespondingSourceObject: {fileID: 3162940551417638149, guid: 033d49514ccd6b1489d3a1968730f3d5, type: 3}
   m_PrefabInstance: {fileID: 1711597122}
   m_PrefabAsset: {fileID: 0}
 --- !u!224 &1716185413 stripped
@@ -5553,7 +5517,7 @@ MonoBehaviour:
     pushLoadedStateToHistory: 1
     hintText: Open the Assistant to start the form automation
     successText: Online! Tell me to fill the form using your CV
-    stuckStepGuideObject: {fileID: 2118962017}
+    stuckStepGuideObject: {fileID: 0}
   - actionId: assistant_intent:Use my CV tab to fill in the form tab. Don't submit
       without asking me first.
     requiresPreviousStep: 1
@@ -5562,7 +5526,7 @@ MonoBehaviour:
     pushLoadedStateToHistory: 1
     hintText: Tell me   "Use my CV tab to fill in the form tab"
     successText: Copying CV data... Mapping fields now.
-    stuckStepGuideObject: {fileID: 1449937454}
+    stuckStepGuideObject: {fileID: 0}
   - actionId: assistant_response_shown
     requiresPreviousStep: 1
     changeStateOnComplete: 0
@@ -5570,55 +5534,7 @@ MonoBehaviour:
     pushLoadedStateToHistory: 1
     hintText: Wait for the AI to confirm the data transfer
     successText: Done! Let's go back to see what the ai made
-    stuckStepGuideObject: {fileID: 1449937454}
-  - actionId: 4 to 3 done button
-    requiresPreviousStep: 1
-    changeStateOnComplete: 0
-    stateToLoad: {fileID: 0}
-    pushLoadedStateToHistory: 1
-    hintText: Go back to Page 3 to verify.
-    successText: Page 3 verified. Go to Page 2.
-    stuckStepGuideObject: {fileID: 1151326447}
-  - actionId: 3 to 2 done button
-    requiresPreviousStep: 1
-    changeStateOnComplete: 0
-    stateToLoad: {fileID: 0}
-    pushLoadedStateToHistory: 1
-    hintText: Check Page 2 for any errors
-    successText: Page 2 looks perfect. Back to 1
-    stuckStepGuideObject: {fileID: 1151326447}
-  - actionId: 2 to 1 done button
-    requiresPreviousStep: 1
-    changeStateOnComplete: 0
-    stateToLoad: {fileID: 0}
-    pushLoadedStateToHistory: 1
-    hintText: Last check on Page 1
-    successText: Page 1 is set. Now return to 4.
-    stuckStepGuideObject: {fileID: 1151326447}
-  - actionId: 1 to 2 done button
-    requiresPreviousStep: 1
-    changeStateOnComplete: 0
-    stateToLoad: {fileID: 0}
-    pushLoadedStateToHistory: 1
-    hintText: Heading back to the finish line!
-    successText: Moving forward to Page 2
-    stuckStepGuideObject: {fileID: 507850300}
-  - actionId: 2 to 3 done button
-    requiresPreviousStep: 1
-    changeStateOnComplete: 0
-    stateToLoad: {fileID: 0}
-    pushLoadedStateToHistory: 1
-    hintText: Keep going to Page 3.
-    successText: Moving forward to Page 3
-    stuckStepGuideObject: {fileID: 507850300}
-  - actionId: 3 to 4 done button
-    requiresPreviousStep: 1
-    changeStateOnComplete: 0
-    stateToLoad: {fileID: 0}
-    pushLoadedStateToHistory: 1
-    hintText: Almost there! One more page
-    successText: Back on Page 4. Final review!
-    stuckStepGuideObject: {fileID: 507850300}
+    stuckStepGuideObject: {fileID: 0}
   - actionId: CV Submited
     requiresPreviousStep: 1
     changeStateOnComplete: 0
@@ -5626,7 +5542,7 @@ MonoBehaviour:
     pushLoadedStateToHistory: 1
     hintText: Ready? Click the final button.
     successText: 100% verified. Level 4 Clear
-    stuckStepGuideObject: {fileID: 507850300}
+    stuckStepGuideObject: {fileID: 0}
   winActionId: MasterWin
   alternativeWinActions: []
   onWin:
@@ -5656,50 +5572,50 @@ MonoBehaviour:
           m_StringArgument: LEVEL_1_COMPLETE
           m_BoolArgument: 0
         m_CallState: 2
-  delayBeforeTransition: 5
-  nextSceneAsset: {fileID: 102900000, guid: 5dd2a2c8d66b9a64db1eba6c3020e36d, type: 3}
-  nextSceneName: ENDING
-  textManager: {fileID: 439707369}
+  delayBeforeTransition: 1
+  nextSceneAsset: {fileID: 102900000, guid: a72740e8634e8d94293428f3e7dadbb9, type: 3}
+  nextSceneName: RD ENDING
+  textManager: {fileID: 0}
   statsManager: {fileID: 1785516260}
   idleHintDelaySeconds: 10
   idleHintMessage: If you are stuck click me to get a hint.
   introMessageHoldSeconds: 3
   stuckStepGuideDelaySeconds: 12
   stuckStepGuideVisibleSeconds: 5
-  hintButtonRequestAnimationObject: {fileID: 743475969}
+  hintButtonRequestAnimationObject: {fileID: 0}
   hintButtonRequestAnimationDelaySeconds: 20
   hintButtonRequestAnimationVisibleSeconds: 10
-  stepEffectObject: {fileID: 1711597124}
+  stepEffectObject: {fileID: 0}
   hideStepEffectWhenIdle: 1
   autoHideUsingAnimatorState: 1
   stepEffectAnimationStateName: FireWORK ANIMATION
   stepEffectAutoHideTimeout: 1
   stepEffectVisibleDuration: 1
-  stepEffectAnimator: {fileID: 1711597125}
+  stepEffectAnimator: {fileID: 0}
   stepEffectParameterName: firework
   stepEffectUsesBoolParameter: 1
   stepEffectBoolResetDelay: 0.15
   stepEffectWaitForEnterTimeout: 0.5
   stepEffectMinResetDelayAfterEnter: 0.1
   stepEffectWaitForCompletionTimeout: 3
-  stepEffectAudioSource: {fileID: 1785516261}
-  stepCompletedSound: {fileID: 8300000, guid: 65dee380da9e9a2448bcbe9e6af754c8, type: 3}
+  stepEffectAudioSource: {fileID: 0}
+  stepCompletedSound: {fileID: 0}
   stepCompletedSoundDelay: 0
-  winFireworksEffectObject: {fileID: 1602261180}
+  winFireworksEffectObject: {fileID: 0}
   hideWinFireworksWhenIdle: 1
   autoHideWinFireworksUsingAnimatorState: 1
   winFireworksAnimationStateName: FireWORK ANIMATION
   winFireworksAutoHideTimeout: 3
   winFireworksVisibleDuration: 1.5
-  winFireworksAnimator: {fileID: 1602261182}
+  winFireworksAnimator: {fileID: 0}
   winFireworksParameterName: firework
   winFireworksUsesBoolParameter: 1
   winFireworksBoolResetDelay: 0.15
   winFireworksWaitForEnterTimeout: 0.5
   winFireworksMinResetDelayAfterEnter: 0.1
   winFireworksWaitForCompletionTimeout: 3
-  winFireworksAudioSource: {fileID: 1785516261}
-  winFireworksSound: {fileID: 8300000, guid: 0a9bcda5cdff49e40a7ae6dc0f4647d0, type: 3}
+  winFireworksAudioSource: {fileID: 0}
+  winFireworksSound: {fileID: 0}
   winFireworksSoundDelay: 0.5
   winFireworksRiseHeight: 250
   winFireworksRiseSpeed: 250
@@ -5729,7 +5645,7 @@ AudioSource:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1785516257}
-  m_Enabled: 1
+  m_Enabled: 0
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 0}
@@ -6358,6 +6274,10 @@ PrefabInstance:
       value: -0.4999981
       objectReference: {fileID: 0}
     - target: {fileID: 4367673733746684880, guid: cdc6de1e883e55445a8695cb0f70ff68, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4641709999988313624, guid: cdc6de1e883e55445a8695cb0f70ff68, type: 3}
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
@@ -7538,11 +7458,6 @@ PrefabInstance:
       addedObject: {fileID: 748595034}
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8e4767412e3c44cc4a17f20cbec34281, type: 3}
---- !u!1 &2118962017 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 982212916657837630, guid: e5be5fde04742f74cba97399e9d421e2, type: 3}
-  m_PrefabInstance: {fileID: 1937515449}
-  m_PrefabAsset: {fileID: 0}
 --- !u!224 &2118962018 stripped
 RectTransform:
   m_CorrespondingSourceObject: {fileID: 6502090638128825956, guid: e5be5fde04742f74cba97399e9d421e2, type: 3}
@@ -7754,6 +7669,10 @@ PrefabInstance:
     - target: {fileID: 5223268555832336597, guid: f93c6fcb72161d7429d3f1db638a9ae1, type: 3}
       propertyPath: m_Name
       value: FireWorkWin
+      objectReference: {fileID: 0}
+    - target: {fileID: 5223268555832336597, guid: f93c6fcb72161d7429d3f1db638a9ae1, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
